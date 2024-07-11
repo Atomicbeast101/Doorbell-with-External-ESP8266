@@ -63,7 +63,12 @@
           "width": 0.2672
         }
       ],
-      "drc_exclusions": [],
+      "drc_exclusions": [
+        "courtyards_overlap|65120001|52270001|990538e8-4b5b-45f9-873b-c28dfa387413|cf15306e-f091-419c-961a-bd1185a545d5",
+        "courtyards_overlap|72921816|44870001|990538e8-4b5b-45f9-873b-c28dfa387413|eb45139e-87a5-4584-8397-34da6b005ed1",
+        "courtyards_overlap|74110231|46450001|f35cc831-7dae-4ac2-bfcf-46ac5ef2715f|990538e8-4b5b-45f9-873b-c28dfa387413",
+        "silk_edge_clearance|54140000|26900000|314b05e6-d1d9-49b3-83bf-d397914b8c5a|8830a7bc-93f3-4691-84f8-224144195cf5"
+      ],
       "meta": {
         "version": 2
       },
@@ -84,6 +89,7 @@
         "footprint_type_mismatch": "ignore",
         "hole_clearance": "error",
         "hole_near_hole": "error",
+        "holes_co_located": "warning",
         "invalid_outline": "error",
         "isolated_copper": "warning",
         "item_on_disabled_layer": "error",
@@ -585,6 +591,7 @@
   },
   "schematic": {
     "annotate_start_num": 0,
+    "bom_export_filename": "",
     "bom_fmt_presets": [],
     "bom_fmt_settings": {
       "field_delimiter": ",",

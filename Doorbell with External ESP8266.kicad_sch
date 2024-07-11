@@ -3005,19 +3005,25 @@
 		)
 	)
 	(junction
-		(at 78.74 78.74)
+		(at 87.63 78.74)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "09770048-e1bf-40c7-b8db-f3688b7f2363")
 	)
 	(junction
-		(at 114.3 39.37)
+		(at 107.95 64.77)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "0b90f67e-03d2-485d-a4ad-6dffec6c411d")
+	)
+	(junction
+		(at 133.35 39.37)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "10101466-00ae-4396-8c95-9321d572f3fe")
 	)
 	(junction
-		(at 97.79 26.67)
+		(at 116.84 26.67)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "1b12632d-2f0d-4a33-93bf-987a4be8092a")
@@ -3029,40 +3035,34 @@
 		(uuid "285ca08e-58d6-4073-b609-6939e5a66a27")
 	)
 	(junction
-		(at 128.27 26.67)
+		(at 147.32 26.67)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "4fa150c6-a777-4334-96f2-7f867696f874")
 	)
 	(junction
-		(at 101.6 26.67)
+		(at 120.65 26.67)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "51bd5b14-d87c-4df9-b040-925e40384d0e")
 	)
 	(junction
-		(at 35.56 93.98)
+		(at 198.12 31.75)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "5bb2d484-f84f-45b9-831c-a6e06d8ece32")
+		(uuid "6b57fd57-5b17-4333-a624-b1cd6a932c32")
 	)
 	(junction
-		(at 116.84 82.55)
+		(at 38.1 93.98)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "634b4a26-7485-4fbe-9b90-3ac63e59cccc")
+		(uuid "7f1d9bb8-e1f3-496e-a145-5ac13ce64108")
 	)
 	(junction
-		(at 38.1 96.52)
+		(at 114.3 64.77)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "6dcd2471-a1de-43c5-92a9-2b6647643f0b")
-	)
-	(junction
-		(at 99.06 64.77)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "7bd16f50-1572-457e-b6dc-d96b4f426c44")
+		(uuid "8a4d6bc4-152d-46ab-a9ae-d51a25c65fd8")
 	)
 	(junction
 		(at 38.1 111.76)
@@ -3071,104 +3071,76 @@
 		(uuid "b00c4294-acde-45a8-9a05-32b47ea52e40")
 	)
 	(junction
-		(at 181.61 33.02)
+		(at 129.54 64.77)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "b3c8b6df-11f5-4d62-a482-28070bfc65dd")
+		(uuid "bfee70f8-4a8b-4a5c-a278-a5a9ae5a204d")
 	)
 	(junction
-		(at 97.79 22.86)
+		(at 116.84 22.86)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "d19da1a6-8f6b-47e1-ac81-3431eefadb8c")
 	)
 	(junction
-		(at 125.73 71.12)
+		(at 123.19 72.39)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "f19ce59c-e76c-45ef-bfd8-a4ccf5b2785e")
+		(uuid "dea153d3-04e0-45c1-9e17-106e509c29c0")
+	)
+	(junction
+		(at 35.56 93.98)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "eb53800a-1f42-4754-b3d6-6fb78fa5b611")
 	)
 	(no_connect
-		(at 36.83 33.02)
+		(at 44.45 33.02)
 		(uuid "0111cd72-f2b6-4d09-bbd8-f30e769ee15b")
 	)
 	(no_connect
-		(at 16.51 40.64)
+		(at 24.13 40.64)
 		(uuid "25efd16a-aa72-4bc4-b975-1b12aaef60ac")
 	)
 	(no_connect
-		(at 36.83 35.56)
+		(at 44.45 35.56)
 		(uuid "28cd2eb6-c163-44b6-9a03-ac92e2ffbe91")
 	)
 	(no_connect
-		(at 16.51 33.02)
+		(at 24.13 33.02)
 		(uuid "2c2f8534-368f-405f-96cb-a4f69a4c053e")
 	)
 	(no_connect
-		(at 36.83 53.34)
+		(at 44.45 53.34)
 		(uuid "4ae1c49b-b820-4463-878f-78b573bb69dc")
 	)
 	(no_connect
-		(at 36.83 40.64)
+		(at 44.45 40.64)
 		(uuid "4f16d5d0-36ea-4a2a-ac6d-642ef0772d62")
 	)
 	(no_connect
-		(at 16.51 43.18)
-		(uuid "5091623a-70ae-4090-9fad-8aa6f697451b")
-	)
-	(no_connect
-		(at 36.83 43.18)
+		(at 44.45 43.18)
 		(uuid "610870e1-d6a3-4e07-bb95-1ba61c3c61ea")
 	)
 	(no_connect
-		(at 96.52 86.36)
+		(at 105.41 86.36)
 		(uuid "6c0aea46-7844-4f50-a160-05c3010441ef")
 	)
 	(no_connect
-		(at 36.83 30.48)
+		(at 44.45 30.48)
 		(uuid "ab16ee5a-aa41-4b3f-a0bc-09496f750e2e")
 	)
 	(no_connect
-		(at 36.83 50.8)
+		(at 44.45 50.8)
 		(uuid "cb14f8b3-33b4-47c8-8645-bd82487e7ee4")
 	)
 	(no_connect
-		(at 29.21 22.86)
+		(at 36.83 22.86)
 		(uuid "cecd9ead-a943-4b28-9dd0-658b6043d326")
 	)
 	(wire
 		(pts
-			(xy 156.21 48.26) (xy 156.21 45.72)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "023feef5-7d5c-4aaa-a17c-37aaebb9961c")
-	)
-	(wire
-		(pts
-			(xy 125.73 80.01) (xy 125.73 82.55)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "042bfc83-e765-45bd-99c8-b9accb707c7a")
-	)
-	(wire
-		(pts
-			(xy 35.56 93.98) (xy 39.37 93.98)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "0460634e-1898-44e9-b70a-0659c019d12c")
-	)
-	(wire
-		(pts
-			(xy 26.67 63.5) (xy 26.67 64.77)
+			(xy 34.29 63.5) (xy 34.29 64.77)
 		)
 		(stroke
 			(width 0)
@@ -3178,17 +3150,27 @@
 	)
 	(wire
 		(pts
-			(xy 44.45 90.17) (xy 38.1 90.17)
+			(xy 129.54 64.77) (xy 135.89 64.77)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "0f3e9cbd-8743-4562-9b68-319bc1097071")
+		(uuid "0945e7c6-5434-452b-866f-dd64173e4916")
 	)
 	(wire
 		(pts
-			(xy 177.8 38.1) (xy 177.8 39.37)
+			(xy 180.34 31.75) (xy 181.61 31.75)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0bb1c780-afab-4f5b-8068-7734a3825c9a")
+	)
+	(wire
+		(pts
+			(xy 198.12 36.83) (xy 198.12 38.1)
 		)
 		(stroke
 			(width 0)
@@ -3208,7 +3190,7 @@
 	)
 	(wire
 		(pts
-			(xy 74.93 78.74) (xy 78.74 78.74)
+			(xy 83.82 78.74) (xy 87.63 78.74)
 		)
 		(stroke
 			(width 0)
@@ -3218,7 +3200,7 @@
 	)
 	(wire
 		(pts
-			(xy 96.52 91.44) (xy 99.06 91.44)
+			(xy 105.41 91.44) (xy 107.95 91.44)
 		)
 		(stroke
 			(width 0)
@@ -3228,17 +3210,7 @@
 	)
 	(wire
 		(pts
-			(xy 156.21 38.1) (xy 161.29 38.1)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "1d9264e1-faa2-4ac1-97a2-63c0ab56a7b0")
-	)
-	(wire
-		(pts
-			(xy 24.13 21.59) (xy 24.13 22.86)
+			(xy 31.75 21.59) (xy 31.75 22.86)
 		)
 		(stroke
 			(width 0)
@@ -3248,13 +3220,23 @@
 	)
 	(wire
 		(pts
-			(xy 125.73 71.12) (xy 124.46 71.12)
+			(xy 44.45 90.17) (xy 38.1 90.17)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "29bcda38-3167-470a-9e60-4fab3db9e194")
+		(uuid "26d3bf1b-129b-4564-afa6-4e1de9bdd019")
+	)
+	(wire
+		(pts
+			(xy 97.79 36.83) (xy 97.79 50.8)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "29b26941-7e9a-45a7-a186-8a70bbdd62f6")
 	)
 	(polyline
 		(pts
@@ -3278,6 +3260,16 @@
 	)
 	(wire
 		(pts
+			(xy 38.1 93.98) (xy 41.91 93.98)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2dde76ba-bda8-4a0f-8679-b037c1dc59c4")
+	)
+	(wire
+		(pts
 			(xy 38.1 111.76) (xy 41.91 111.76)
 		)
 		(stroke
@@ -3288,7 +3280,7 @@
 	)
 	(wire
 		(pts
-			(xy 128.27 26.67) (xy 128.27 30.48)
+			(xy 147.32 26.67) (xy 147.32 30.48)
 		)
 		(stroke
 			(width 0)
@@ -3298,7 +3290,17 @@
 	)
 	(wire
 		(pts
-			(xy 96.52 93.98) (xy 99.06 93.98)
+			(xy 114.3 64.77) (xy 118.11 64.77)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "31945191-3a88-44de-96b9-e93318638faf")
+	)
+	(wire
+		(pts
+			(xy 105.41 93.98) (xy 107.95 93.98)
 		)
 		(stroke
 			(width 0)
@@ -3306,9 +3308,19 @@
 		)
 		(uuid "364093ad-8dc8-4c7c-bca0-52059a30a3ed")
 	)
+	(wire
+		(pts
+			(xy 86.36 27.94) (xy 86.36 29.21)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "37dbab37-7e90-46f5-9d53-63fd36f2ffca")
+	)
 	(polyline
 		(pts
-			(xy 72.39 55.88) (xy 137.16 55.88)
+			(xy 81.28 55.88) (xy 138.43 55.88)
 		)
 		(stroke
 			(width 0)
@@ -3318,7 +3330,7 @@
 	)
 	(wire
 		(pts
-			(xy 97.79 39.37) (xy 114.3 39.37)
+			(xy 116.84 39.37) (xy 133.35 39.37)
 		)
 		(stroke
 			(width 0)
@@ -3328,7 +3340,7 @@
 	)
 	(wire
 		(pts
-			(xy 91.44 64.77) (xy 99.06 64.77)
+			(xy 100.33 64.77) (xy 107.95 64.77)
 		)
 		(stroke
 			(width 0)
@@ -3336,9 +3348,29 @@
 		)
 		(uuid "38bbff7d-1701-4266-9602-12606defbf00")
 	)
+	(wire
+		(pts
+			(xy 44.45 87.63) (xy 35.56 87.63)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "39f56531-bc33-4c51-9892-f0ae112dbc8b")
+	)
+	(wire
+		(pts
+			(xy 179.07 36.83) (xy 181.61 36.83)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3f348872-c296-4060-9f22-669546d33deb")
+	)
 	(polyline
 		(pts
-			(xy 50.8 55.88) (xy 69.85 55.88)
+			(xy 59.69 55.88) (xy 78.74 55.88)
 		)
 		(stroke
 			(width 0)
@@ -3348,7 +3380,7 @@
 	)
 	(polyline
 		(pts
-			(xy 72.39 55.88) (xy 71.12 55.88)
+			(xy 81.28 55.88) (xy 80.01 55.88)
 		)
 		(stroke
 			(width 0)
@@ -3358,7 +3390,7 @@
 	)
 	(wire
 		(pts
-			(xy 36.83 48.26) (xy 48.26 48.26)
+			(xy 44.45 48.26) (xy 57.15 48.26)
 		)
 		(stroke
 			(width 0)
@@ -3368,7 +3400,7 @@
 	)
 	(wire
 		(pts
-			(xy 81.28 96.52) (xy 96.52 96.52)
+			(xy 90.17 96.52) (xy 105.41 96.52)
 		)
 		(stroke
 			(width 0)
@@ -3378,13 +3410,43 @@
 	)
 	(wire
 		(pts
-			(xy 116.84 66.04) (xy 116.84 64.77)
+			(xy 129.54 64.77) (xy 129.54 66.04)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "4a0a7cdf-35fb-4303-b4cb-4c2b67500d6e")
+		(uuid "4890636b-c6ec-460d-a6c2-13e20873129e")
+	)
+	(wire
+		(pts
+			(xy 114.3 76.2) (xy 114.3 64.77)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4bdaac6e-fe58-4202-9b8b-35600072a074")
+	)
+	(wire
+		(pts
+			(xy 97.79 21.59) (xy 97.79 22.86)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4d990324-68a0-4817-9cd5-4deab737c12f")
+	)
+	(wire
+		(pts
+			(xy 180.34 30.48) (xy 180.34 31.75)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "51132f16-6d11-46f5-a413-b7ff78b74420")
 	)
 	(wire
 		(pts
@@ -3398,7 +3460,7 @@
 	)
 	(wire
 		(pts
-			(xy 128.27 35.56) (xy 128.27 39.37)
+			(xy 147.32 35.56) (xy 147.32 39.37)
 		)
 		(stroke
 			(width 0)
@@ -3408,7 +3470,7 @@
 	)
 	(wire
 		(pts
-			(xy 176.53 38.1) (xy 177.8 38.1)
+			(xy 196.85 36.83) (xy 198.12 36.83)
 		)
 		(stroke
 			(width 0)
@@ -3418,23 +3480,13 @@
 	)
 	(wire
 		(pts
-			(xy 116.84 82.55) (xy 116.84 85.09)
+			(xy 129.54 72.39) (xy 123.19 72.39)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "54944bbb-e1dd-4fd5-950f-2809467233ab")
-	)
-	(wire
-		(pts
-			(xy 77.47 36.83) (xy 77.47 38.1)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "56406153-6def-410d-91c8-15505863191e")
+		(uuid "55d1ba4f-37b9-4d49-b8f9-d18b33db9ccf")
 	)
 	(wire
 		(pts
@@ -3446,9 +3498,19 @@
 		)
 		(uuid "58f761d2-01ad-4d18-8423-c89801ab2688")
 	)
+	(wire
+		(pts
+			(xy 38.1 96.52) (xy 38.1 93.98)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "59a2cc95-aa05-4890-9fa1-5773ae428ed5")
+	)
 	(polyline
 		(pts
-			(xy 138.43 13.97) (xy 196.85 13.97)
+			(xy 157.48 13.97) (xy 213.36 13.97)
 		)
 		(stroke
 			(width 0)
@@ -3458,13 +3520,13 @@
 	)
 	(wire
 		(pts
-			(xy 38.1 96.52) (xy 39.37 96.52)
+			(xy 40.64 95.25) (xy 40.64 96.52)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "6ba0145b-06d4-4000-a16c-eb113c63f516")
+		(uuid "671fd32d-f79c-4410-a593-4f678e47b59f")
 	)
 	(wire
 		(pts
@@ -3488,27 +3550,7 @@
 	)
 	(wire
 		(pts
-			(xy 99.06 64.77) (xy 116.84 64.77)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "6e230d1c-3a22-4c5a-b24b-bdf66e933e4c")
-	)
-	(wire
-		(pts
-			(xy 34.29 93.98) (xy 35.56 93.98)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "6e459c10-8092-453f-90be-f3607a889ebe")
-	)
-	(wire
-		(pts
-			(xy 66.04 36.83) (xy 66.04 38.1)
+			(xy 74.93 34.29) (xy 74.93 36.83)
 		)
 		(stroke
 			(width 0)
@@ -3518,17 +3560,17 @@
 	)
 	(wire
 		(pts
-			(xy 116.84 76.2) (xy 116.84 82.55)
+			(xy 34.29 93.98) (xy 35.56 93.98)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "74e61283-ac60-4602-86e8-81b1be48efea")
+		(uuid "74713983-9bb0-4107-9f31-e9aac27fe931")
 	)
 	(wire
 		(pts
-			(xy 181.61 33.02) (xy 181.61 29.21)
+			(xy 198.12 31.75) (xy 198.12 27.94)
 		)
 		(stroke
 			(width 0)
@@ -3538,7 +3580,7 @@
 	)
 	(wire
 		(pts
-			(xy 93.98 21.59) (xy 93.98 22.86)
+			(xy 113.03 21.59) (xy 113.03 22.86)
 		)
 		(stroke
 			(width 0)
@@ -3548,17 +3590,7 @@
 	)
 	(wire
 		(pts
-			(xy 156.21 38.1) (xy 156.21 40.64)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "7b681cfd-b19f-436b-a6e8-bf6be69e9114")
-	)
-	(wire
-		(pts
-			(xy 93.98 22.86) (xy 97.79 22.86)
+			(xy 113.03 22.86) (xy 116.84 22.86)
 		)
 		(stroke
 			(width 0)
@@ -3568,7 +3600,7 @@
 	)
 	(polyline
 		(pts
-			(xy 71.12 99.06) (xy 137.16 99.06)
+			(xy 80.01 99.06) (xy 138.43 99.06)
 		)
 		(stroke
 			(width 0)
@@ -3578,27 +3610,7 @@
 	)
 	(wire
 		(pts
-			(xy 116.84 82.55) (xy 125.73 82.55)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "823a1db0-b97e-4c1f-8414-923bc813117f")
-	)
-	(wire
-		(pts
-			(xy 34.29 96.52) (xy 38.1 96.52)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "8346d353-0101-41ee-86ab-49c476d6e398")
-	)
-	(wire
-		(pts
-			(xy 176.53 33.02) (xy 181.61 33.02)
+			(xy 196.85 31.75) (xy 198.12 31.75)
 		)
 		(stroke
 			(width 0)
@@ -3608,27 +3620,27 @@
 	)
 	(wire
 		(pts
-			(xy 38.1 90.17) (xy 38.1 96.52)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "8e2e9ad6-ab71-4617-8201-ea3b0ab9e9ec")
-	)
-	(wire
-		(pts
 			(xy 35.56 87.63) (xy 35.56 93.98)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "90107b90-3d49-45aa-8b7e-72ac63594a2f")
+		(uuid "8a380ea8-391a-454a-ad48-f0c2ef695e7d")
 	)
 	(wire
 		(pts
-			(xy 97.79 26.67) (xy 97.79 30.48)
+			(xy 40.64 96.52) (xy 41.91 96.52)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8d9aa1dc-7843-482d-9aba-49708357f491")
+	)
+	(wire
+		(pts
+			(xy 116.84 26.67) (xy 116.84 30.48)
 		)
 		(stroke
 			(width 0)
@@ -3638,13 +3650,13 @@
 	)
 	(wire
 		(pts
-			(xy 135.89 71.12) (xy 125.73 71.12)
+			(xy 123.19 72.39) (xy 123.19 73.66)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "93415fec-540a-4bb5-888c-917650aaf80f")
+		(uuid "93e4a028-2985-43c4-9080-54c06d24ba03")
 	)
 	(wire
 		(pts
@@ -3658,7 +3670,7 @@
 	)
 	(wire
 		(pts
-			(xy 181.61 21.59) (xy 181.61 24.13)
+			(xy 198.12 21.59) (xy 198.12 22.86)
 		)
 		(stroke
 			(width 0)
@@ -3668,7 +3680,7 @@
 	)
 	(wire
 		(pts
-			(xy 36.83 45.72) (xy 48.26 45.72)
+			(xy 44.45 45.72) (xy 57.15 45.72)
 		)
 		(stroke
 			(width 0)
@@ -3678,7 +3690,7 @@
 	)
 	(wire
 		(pts
-			(xy 127 26.67) (xy 128.27 26.67)
+			(xy 146.05 26.67) (xy 147.32 26.67)
 		)
 		(stroke
 			(width 0)
@@ -3688,7 +3700,7 @@
 	)
 	(polyline
 		(pts
-			(xy 72.39 55.88) (xy 72.39 55.88)
+			(xy 81.28 55.88) (xy 81.28 55.88)
 		)
 		(stroke
 			(width 0)
@@ -3698,17 +3710,7 @@
 	)
 	(wire
 		(pts
-			(xy 44.45 87.63) (xy 35.56 87.63)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a30f2ac4-7f29-4cf8-8fa6-fa13b0fdf920")
-	)
-	(wire
-		(pts
-			(xy 73.66 91.44) (xy 81.28 91.44)
+			(xy 82.55 91.44) (xy 90.17 91.44)
 		)
 		(stroke
 			(width 0)
@@ -3728,7 +3730,17 @@
 	)
 	(wire
 		(pts
-			(xy 96.52 78.74) (xy 99.06 78.74)
+			(xy 129.54 71.12) (xy 129.54 72.39)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a6b048e0-6e16-46b7-8fe8-ead2947997f1")
+	)
+	(wire
+		(pts
+			(xy 105.41 78.74) (xy 107.95 78.74)
 		)
 		(stroke
 			(width 0)
@@ -3738,7 +3750,7 @@
 	)
 	(wire
 		(pts
-			(xy 66.04 43.18) (xy 66.04 44.45)
+			(xy 74.93 41.91) (xy 74.93 43.18)
 		)
 		(stroke
 			(width 0)
@@ -3748,7 +3760,7 @@
 	)
 	(wire
 		(pts
-			(xy 78.74 78.74) (xy 81.28 78.74)
+			(xy 87.63 78.74) (xy 90.17 78.74)
 		)
 		(stroke
 			(width 0)
@@ -3758,7 +3770,7 @@
 	)
 	(wire
 		(pts
-			(xy 128.27 39.37) (xy 114.3 39.37)
+			(xy 147.32 39.37) (xy 133.35 39.37)
 		)
 		(stroke
 			(width 0)
@@ -3768,7 +3780,7 @@
 	)
 	(wire
 		(pts
-			(xy 36.83 38.1) (xy 48.26 38.1)
+			(xy 44.45 38.1) (xy 57.15 38.1)
 		)
 		(stroke
 			(width 0)
@@ -3778,7 +3790,7 @@
 	)
 	(polyline
 		(pts
-			(xy 196.85 55.88) (xy 138.43 55.88)
+			(xy 213.36 48.26) (xy 157.48 48.26)
 		)
 		(stroke
 			(width 0)
@@ -3788,7 +3800,7 @@
 	)
 	(wire
 		(pts
-			(xy 86.36 64.77) (xy 78.74 64.77)
+			(xy 95.25 64.77) (xy 87.63 64.77)
 		)
 		(stroke
 			(width 0)
@@ -3798,7 +3810,7 @@
 	)
 	(wire
 		(pts
-			(xy 97.79 35.56) (xy 97.79 39.37)
+			(xy 116.84 35.56) (xy 116.84 39.37)
 		)
 		(stroke
 			(width 0)
@@ -3806,9 +3818,19 @@
 		)
 		(uuid "bb57ebc4-2472-49fd-8859-29d3cec3d899")
 	)
+	(wire
+		(pts
+			(xy 15.24 43.18) (xy 24.13 43.18)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bc25c77f-94e2-47e1-8d18-c586d793e4e2")
+	)
 	(polyline
 		(pts
-			(xy 138.43 13.97) (xy 138.43 55.88)
+			(xy 157.48 13.97) (xy 157.48 48.26)
 		)
 		(stroke
 			(width 0)
@@ -3818,23 +3840,33 @@
 	)
 	(wire
 		(pts
-			(xy 125.73 71.12) (xy 125.73 74.93)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "bd2459b5-1ba1-4d86-97ee-977c9435e52a")
-	)
-	(wire
-		(pts
-			(xy 97.79 21.59) (xy 97.79 22.86)
+			(xy 116.84 21.59) (xy 116.84 22.86)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "bed683b8-d5cb-478e-8e5f-9d4b5703bfcc")
+	)
+	(wire
+		(pts
+			(xy 173.99 39.37) (xy 173.99 40.64)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c146c4e8-c886-46e3-9570-e7e196529a8a")
+	)
+	(wire
+		(pts
+			(xy 34.29 96.52) (xy 38.1 96.52)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c46664aa-29dd-4929-8ec3-0a9c9555b5fb")
 	)
 	(wire
 		(pts
@@ -3848,7 +3880,17 @@
 	)
 	(wire
 		(pts
-			(xy 55.88 21.59) (xy 55.88 22.86)
+			(xy 35.56 93.98) (xy 35.56 95.25)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c78671e6-a43a-4313-b730-0c069a418a92")
+	)
+	(wire
+		(pts
+			(xy 64.77 21.59) (xy 64.77 22.86)
 		)
 		(stroke
 			(width 0)
@@ -3858,7 +3900,7 @@
 	)
 	(wire
 		(pts
-			(xy 128.27 21.59) (xy 128.27 26.67)
+			(xy 147.32 21.59) (xy 147.32 26.67)
 		)
 		(stroke
 			(width 0)
@@ -3868,7 +3910,7 @@
 	)
 	(wire
 		(pts
-			(xy 73.66 88.9) (xy 81.28 88.9)
+			(xy 82.55 88.9) (xy 90.17 88.9)
 		)
 		(stroke
 			(width 0)
@@ -3878,7 +3920,17 @@
 	)
 	(wire
 		(pts
-			(xy 114.3 43.18) (xy 114.3 39.37)
+			(xy 198.12 31.75) (xy 212.09 31.75)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cb5d2045-870e-43a2-bbe0-843f860436d4")
+	)
+	(wire
+		(pts
+			(xy 133.35 43.18) (xy 133.35 39.37)
 		)
 		(stroke
 			(width 0)
@@ -3888,17 +3940,7 @@
 	)
 	(wire
 		(pts
-			(xy 157.48 30.48) (xy 157.48 26.67)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "cf2fca6c-b0f8-4637-ae75-8e8077b97400")
-	)
-	(wire
-		(pts
-			(xy 96.52 96.52) (xy 96.52 93.98)
+			(xy 105.41 96.52) (xy 105.41 93.98)
 		)
 		(stroke
 			(width 0)
@@ -3908,7 +3950,7 @@
 	)
 	(polyline
 		(pts
-			(xy 196.85 13.97) (xy 196.85 55.88)
+			(xy 213.36 13.97) (xy 213.36 48.26)
 		)
 		(stroke
 			(width 0)
@@ -3916,9 +3958,19 @@
 		)
 		(uuid "d3ed6ed7-0447-47dd-ba71-7dcfd97ddb54")
 	)
+	(wire
+		(pts
+			(xy 86.36 21.59) (xy 86.36 22.86)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d46d7a8f-c5ae-4416-99fd-49e0395f190e")
+	)
 	(polyline
 		(pts
-			(xy 69.85 82.55) (xy 50.8 82.55)
+			(xy 78.74 82.55) (xy 59.69 82.55)
 		)
 		(stroke
 			(width 0)
@@ -3928,7 +3980,7 @@
 	)
 	(wire
 		(pts
-			(xy 66.04 15.24) (xy 66.04 29.21)
+			(xy 74.93 15.24) (xy 74.93 26.67)
 		)
 		(stroke
 			(width 0)
@@ -3936,25 +3988,35 @@
 		)
 		(uuid "d51062c0-e52d-4bdd-8c26-d872711bdbfe")
 	)
-	(wire
-		(pts
-			(xy 194.31 33.02) (xy 181.61 33.02)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d5a4c011-5977-4fc7-84a4-69042774b212")
-	)
 	(polyline
 		(pts
-			(xy 69.85 55.88) (xy 69.85 82.55)
+			(xy 78.74 55.88) (xy 78.74 82.55)
 		)
 		(stroke
 			(width 0)
 			(type dash)
 		)
 		(uuid "d77ddf8c-7de4-4ebc-b50a-0037ff3462a7")
+	)
+	(wire
+		(pts
+			(xy 172.72 39.37) (xy 173.99 39.37)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d911bd18-9af0-43e4-be8d-8621c4df6e6c")
+	)
+	(wire
+		(pts
+			(xy 97.79 27.94) (xy 97.79 29.21)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d966bb5f-8100-4507-85cc-12dcafa04a40")
 	)
 	(wire
 		(pts
@@ -3968,17 +4030,27 @@
 	)
 	(wire
 		(pts
-			(xy 77.47 43.18) (xy 77.47 44.45)
+			(xy 172.72 36.83) (xy 173.99 36.83)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "e0d9cf4b-dc08-4716-9dbe-968172e068c7")
+		(uuid "db6387c6-b8ac-4e2e-8e0f-2d6d46ea042d")
 	)
 	(wire
 		(pts
-			(xy 101.6 26.67) (xy 101.6 31.75)
+			(xy 38.1 90.17) (xy 38.1 93.98)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e0ca4d2b-6bb3-473d-bede-b444570477cf")
+	)
+	(wire
+		(pts
+			(xy 120.65 26.67) (xy 120.65 31.75)
 		)
 		(stroke
 			(width 0)
@@ -3986,19 +4058,9 @@
 		)
 		(uuid "e5302c3b-66ec-461e-8dc0-2f0fa7dd1b82")
 	)
-	(wire
-		(pts
-			(xy 77.47 15.24) (xy 77.47 29.21)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e53f76db-f89a-45e3-93cf-e68abc3e7e8a")
-	)
 	(polyline
 		(pts
-			(xy 71.12 55.88) (xy 71.12 99.06)
+			(xy 80.01 55.88) (xy 80.01 99.06)
 		)
 		(stroke
 			(width 0)
@@ -4008,17 +4070,7 @@
 	)
 	(wire
 		(pts
-			(xy 153.67 33.02) (xy 161.29 33.02)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e798a568-f556-45d1-bf94-ef8f1bf276fa")
-	)
-	(wire
-		(pts
-			(xy 97.79 22.86) (xy 97.79 26.67)
+			(xy 116.84 22.86) (xy 116.84 26.67)
 		)
 		(stroke
 			(width 0)
@@ -4038,7 +4090,7 @@
 	)
 	(wire
 		(pts
-			(xy 97.79 26.67) (xy 101.6 26.67)
+			(xy 116.84 26.67) (xy 120.65 26.67)
 		)
 		(stroke
 			(width 0)
@@ -4048,7 +4100,7 @@
 	)
 	(wire
 		(pts
-			(xy 74.93 76.2) (xy 74.93 78.74)
+			(xy 83.82 76.2) (xy 83.82 78.74)
 		)
 		(stroke
 			(width 0)
@@ -4058,7 +4110,7 @@
 	)
 	(wire
 		(pts
-			(xy 55.88 27.94) (xy 55.88 29.21)
+			(xy 64.77 27.94) (xy 64.77 29.21)
 		)
 		(stroke
 			(width 0)
@@ -4068,7 +4120,7 @@
 	)
 	(wire
 		(pts
-			(xy 55.88 36.83) (xy 55.88 38.1)
+			(xy 64.77 36.83) (xy 64.77 38.1)
 		)
 		(stroke
 			(width 0)
@@ -4076,9 +4128,19 @@
 		)
 		(uuid "f12ba090-53f4-44a0-97bc-c62711f6cb82")
 	)
+	(wire
+		(pts
+			(xy 86.36 36.83) (xy 86.36 46.99)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f3bcd7c2-1661-4c81-a09e-e0ee1f99b132")
+	)
 	(polyline
 		(pts
-			(xy 50.8 55.88) (xy 50.8 82.55)
+			(xy 59.69 55.88) (xy 59.69 82.55)
 		)
 		(stroke
 			(width 0)
@@ -4098,7 +4160,7 @@
 	)
 	(wire
 		(pts
-			(xy 99.06 64.77) (xy 99.06 78.74)
+			(xy 107.95 64.77) (xy 107.95 78.74)
 		)
 		(stroke
 			(width 0)
@@ -4106,9 +4168,19 @@
 		)
 		(uuid "f75fd533-df5c-4b1e-b0df-c77948a98495")
 	)
+	(wire
+		(pts
+			(xy 128.27 64.77) (xy 129.54 64.77)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f8158e06-4631-420e-bc9b-ad1dc2996182")
+	)
 	(polyline
 		(pts
-			(xy 137.16 99.06) (xy 137.16 55.88)
+			(xy 138.43 99.06) (xy 138.43 55.88)
 		)
 		(stroke
 			(width 0)
@@ -4118,17 +4190,7 @@
 	)
 	(wire
 		(pts
-			(xy 153.67 30.48) (xy 157.48 30.48)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "fb138653-460c-40f2-933a-2c12fbf7280e")
-	)
-	(wire
-		(pts
-			(xy 78.74 64.77) (xy 78.74 78.74)
+			(xy 87.63 64.77) (xy 87.63 78.74)
 		)
 		(stroke
 			(width 0)
@@ -4138,7 +4200,17 @@
 	)
 	(wire
 		(pts
-			(xy 81.28 91.44) (xy 81.28 96.52)
+			(xy 107.95 64.77) (xy 114.3 64.77)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fc8a702a-e3b3-46cf-adaa-49ed3d7c4fde")
+	)
+	(wire
+		(pts
+			(xy 90.17 91.44) (xy 90.17 96.52)
 		)
 		(stroke
 			(width 0)
@@ -4146,9 +4218,19 @@
 		)
 		(uuid "feb34c24-1ddd-481b-b575-45916834b0c2")
 	)
+	(wire
+		(pts
+			(xy 35.56 95.25) (xy 40.64 95.25)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ff7b40d4-7304-4572-b8a8-becd3789f1e8")
+	)
 	(rectangle
-		(start 88.9 13.97)
-		(end 137.16 54.61)
+		(start 107.95 13.97)
+		(end 156.21 54.61)
 		(stroke
 			(width 0)
 			(type dash)
@@ -4159,8 +4241,8 @@
 		(uuid 206b9495-82a1-4606-81e0-a6ef5372a0ab)
 	)
 	(rectangle
-		(start 50.8 13.97)
-		(end 87.63 54.61)
+		(start 59.69 13.97)
+		(end 106.68 54.61)
 		(stroke
 			(width 0)
 			(type dash)
@@ -4172,7 +4254,7 @@
 	)
 	(rectangle
 		(start 13.97 13.97)
-		(end 49.53 76.2)
+		(end 58.42 76.2)
 		(stroke
 			(width 0)
 			(type dash)
@@ -4184,7 +4266,7 @@
 	)
 	(text "LED Indicator"
 		(exclude_from_sim no)
-		(at 52.07 53.34 0)
+		(at 92.71 53.594 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4196,7 +4278,7 @@
 	)
 	(text "Chime Relay"
 		(exclude_from_sim no)
-		(at 123.952 98.044 0)
+		(at 125.222 98.044 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4208,7 +4290,7 @@
 	)
 	(text "ESP8266 WEMOS D1 Connector"
 		(exclude_from_sim no)
-		(at 18.542 74.93 0)
+		(at 27.178 75.184 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4220,7 +4302,7 @@
 	)
 	(text "Step-Down 5v to 3.3v"
 		(exclude_from_sim no)
-		(at 114.046 53.34 0)
+		(at 133.35 53.594 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4232,7 +4314,7 @@
 	)
 	(text "Doorbell Sensor"
 		(exclude_from_sim no)
-		(at 180.34 54.61 0)
+		(at 196.85 47.498 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4244,7 +4326,7 @@
 	)
 	(text "Mounting Holes"
 		(exclude_from_sim no)
-		(at 53.34 81.28 0)
+		(at 62.23 81.28 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4267,7 +4349,7 @@
 		(uuid "ccc090e9-bac2-4e6b-aac2-495f00e82e88")
 	)
 	(label "DB_BUTTON"
-		(at 48.26 38.1 180)
+		(at 57.15 38.1 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4278,7 +4360,7 @@
 		(uuid "15f1deb8-f373-452d-b8de-4ec7a7053ffa")
 	)
 	(label "AC_B"
-		(at 73.66 91.44 0)
+		(at 82.55 91.44 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4289,7 +4371,7 @@
 		(uuid "21d42546-3897-4051-9cfe-8fe5eb1d2357")
 	)
 	(label "CHIME"
-		(at 135.89 71.12 180)
+		(at 135.89 64.77 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4300,7 +4382,7 @@
 		(uuid "41f607ae-f951-401e-9c29-6505e89f034d")
 	)
 	(label "AC_A"
-		(at 73.66 88.9 0)
+		(at 82.55 88.9 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4321,17 +4403,6 @@
 		)
 		(uuid "4d7c1541-40c9-491d-8578-84c8a5ea1a03")
 	)
-	(label "RELAY_LED"
-		(at 77.47 15.24 270)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "6b659942-8da4-490b-8a87-d122c426d398")
-	)
 	(label "AC_A"
 		(at 44.45 87.63 180)
 		(fields_autoplaced yes)
@@ -4344,7 +4415,7 @@
 		(uuid "9edaef34-6ecc-42d2-9e59-dda40df9df12")
 	)
 	(label "DB_BUTTON"
-		(at 194.31 33.02 180)
+		(at 212.09 31.75 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4354,19 +4425,30 @@
 		)
 		(uuid "ad22a893-90da-408f-be0d-c7a18d3752d3")
 	)
-	(label "RELAY_LED"
-		(at 114.3 64.77 180)
+	(label "ESP_TX"
+		(at 15.24 43.18 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify right bottom)
+			(justify left bottom)
+		)
+		(uuid "c20dad24-542b-4dbf-97ce-766b3ce98db6")
+	)
+	(label "RELAY_LED"
+		(at 114.3 76.2 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
 		)
 		(uuid "c4990ed8-0da7-4361-a79b-19d61ca3ebb2")
 	)
 	(label "CHIME"
-		(at 48.26 48.26 180)
+		(at 57.15 48.26 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4376,8 +4458,19 @@
 		)
 		(uuid "d6a4c91f-6967-425a-885a-7c18577519a3")
 	)
+	(label "RELAY_LED"
+		(at 97.79 50.8 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "d9301bf6-d360-4f34-9107-dd5863d0f1b4")
+	)
 	(label "HA_STATUS"
-		(at 66.04 15.24 270)
+		(at 74.93 15.24 270)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4387,8 +4480,19 @@
 		)
 		(uuid "e4fa1a58-52b0-43b7-bbcf-c5eeed9ed5e1")
 	)
+	(label "ESP_TX"
+		(at 86.36 46.99 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "efce9c67-3a63-4aeb-8be5-625e1453c813")
+	)
 	(label "HA_STATUS"
-		(at 48.26 45.72 180)
+		(at 57.15 45.72 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4401,7 +4505,7 @@
 	(symbol
 		(lib_name "GND_1")
 		(lib_id "power:GND")
-		(at 55.88 38.1 0)
+		(at 64.77 38.1 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4409,8 +4513,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "028cffab-1147-4665-b03f-d92c66ad32ad")
-		(property "Reference" "#PWR0102"
-			(at 55.88 44.45 0)
+		(property "Reference" "#PWR0106"
+			(at 64.77 44.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4419,7 +4523,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 55.88 43.18 0)
+			(at 64.77 43.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4427,7 +4531,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 55.88 38.1 0)
+			(at 64.77 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4436,7 +4540,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 55.88 38.1 0)
+			(at 64.77 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4445,7 +4549,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 55.88 38.1 0)
+			(at 64.77 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4459,7 +4563,7 @@
 		(instances
 			(project "Doorbell with External ESP8266"
 				(path "/1d0268e6-ee3c-4a34-9d2d-f372b4396147"
-					(reference "#PWR0102")
+					(reference "#PWR0106")
 					(unit 1)
 				)
 			)
@@ -4534,35 +4638,34 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:C_Small")
-		(at 128.27 33.02 0)
+		(lib_id "Device:LED")
+		(at 97.79 33.02 270)
+		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "1e3286c1-3ce7-4777-b2bc-1b7fb96a8171")
-		(property "Reference" "C106"
-			(at 130.81 31.7563 0)
+		(uuid "0f1d76f4-aedb-4005-bdbd-9218f876a76b")
+		(property "Reference" "D104"
+			(at 102.87 31.75 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
 			)
 		)
-		(property "Value" "4.7uF"
-			(at 130.81 34.2963 0)
+		(property "Value" "White"
+			(at 102.87 34.29 90)
 			(effects
 				(font
 					(size 1.27 1.27)
+					(color 255 255 255 1)
 				)
-				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
-			(at 128.27 33.02 0)
+		(property "Footprint" "LED_SMD:LED_0805_2012Metric"
+			(at 97.79 33.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4571,7 +4674,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 128.27 33.02 0)
+			(at 97.79 33.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4580,7 +4683,162 @@
 			)
 		)
 		(property "Description" ""
-			(at 128.27 33.02 0)
+			(at 97.79 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C34499"
+			(at 97.79 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "e5b60ef4-221d-4063-98b3-f527bbe74e4e")
+		)
+		(pin "2"
+			(uuid "720a57e9-dd9e-429f-a81a-4bdb546efedb")
+		)
+		(instances
+			(project "Doorbell with External ESP8266"
+				(path "/1d0268e6-ee3c-4a34-9d2d-f372b4396147"
+					(reference "D104")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R_Small")
+		(at 86.36 25.4 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "1b25a78e-284e-498b-ae28-0cb09c55eae6")
+		(property "Reference" "R103"
+			(at 90.17 24.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "1K"
+			(at 88.9 26.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+			(at 88.138 25.4 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 86.36 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 86.36 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C21190"
+			(at 86.36 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "34de35e7-569c-4e44-9a04-5169484f65d4")
+		)
+		(pin "2"
+			(uuid "762489ee-e211-4cea-87e7-3fcc8ee7d4c6")
+		)
+		(instances
+			(project "Doorbell with External ESP8266"
+				(path "/1d0268e6-ee3c-4a34-9d2d-f372b4396147"
+					(reference "R103")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C_Small")
+		(at 147.32 33.02 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "1e3286c1-3ce7-4777-b2bc-1b7fb96a8171")
+		(property "Reference" "C102"
+			(at 149.86 31.7563 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "4.7uF"
+			(at 149.86 34.2963 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+			(at 147.32 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 147.32 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 147.32 33.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4589,7 +4847,7 @@
 			)
 		)
 		(property "LCSC" "C19666"
-			(at 128.27 33.02 0)
+			(at 147.32 33.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4606,7 +4864,7 @@
 		(instances
 			(project "Doorbell with External ESP8266"
 				(path "/1d0268e6-ee3c-4a34-9d2d-f372b4396147"
-					(reference "C106")
+					(reference "C102")
 					(unit 1)
 				)
 			)
@@ -4614,7 +4872,7 @@
 	)
 	(symbol
 		(lib_id "Device:R_Small")
-		(at 181.61 26.67 0)
+		(at 198.12 25.4 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4622,8 +4880,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "22be4716-97d8-4bf9-a7cb-31cde559bdd1")
-		(property "Reference" "R108"
-			(at 184.15 25.4 0)
+		(property "Reference" "R107"
+			(at 200.66 24.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4632,7 +4890,7 @@
 			)
 		)
 		(property "Value" "10K"
-			(at 184.15 27.94 0)
+			(at 200.66 26.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4641,7 +4899,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
-			(at 181.61 26.67 0)
+			(at 198.12 25.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4650,7 +4908,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 181.61 26.67 0)
+			(at 198.12 25.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4659,7 +4917,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 181.61 26.67 0)
+			(at 198.12 25.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4668,7 +4926,7 @@
 			)
 		)
 		(property "LCSC" "C25804"
-			(at 181.61 26.67 0)
+			(at 198.12 25.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4685,7 +4943,7 @@
 		(instances
 			(project "Doorbell with External ESP8266"
 				(path "/1d0268e6-ee3c-4a34-9d2d-f372b4396147"
-					(reference "R108")
+					(reference "R107")
 					(unit 1)
 				)
 			)
@@ -4693,7 +4951,7 @@
 	)
 	(symbol
 		(lib_id "power:VCC")
-		(at 97.79 21.59 0)
+		(at 116.84 21.59 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4701,8 +4959,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2415ef15-483a-4f6e-86e5-ad32c8ab15d5")
-		(property "Reference" "#PWR0114"
-			(at 97.79 25.4 0)
+		(property "Reference" "#PWR0111"
+			(at 116.84 25.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4711,7 +4969,7 @@
 			)
 		)
 		(property "Value" "VCC"
-			(at 97.79 16.51 0)
+			(at 116.84 16.51 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4719,7 +4977,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 97.79 21.59 0)
+			(at 116.84 21.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4728,7 +4986,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 97.79 21.59 0)
+			(at 116.84 21.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4737,7 +4995,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"VCC\""
-			(at 97.79 21.59 0)
+			(at 116.84 21.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4751,7 +5009,7 @@
 		(instances
 			(project "Doorbell with External ESP8266"
 				(path "/1d0268e6-ee3c-4a34-9d2d-f372b4396147"
-					(reference "#PWR0114")
+					(reference "#PWR0111")
 					(unit 1)
 				)
 			)
@@ -4759,7 +5017,7 @@
 	)
 	(symbol
 		(lib_id "Isolator:EL817")
-		(at 168.91 35.56 0)
+		(at 189.23 34.29 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4767,8 +5025,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2e540da6-63e6-48bd-bb4d-eba5f8588980")
-		(property "Reference" "U102"
-			(at 168.91 26.67 0)
+		(property "Reference" "U103"
+			(at 189.23 25.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4776,7 +5034,7 @@
 			)
 		)
 		(property "Value" "EL817"
-			(at 168.91 29.21 0)
+			(at 189.23 27.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4784,7 +5042,7 @@
 			)
 		)
 		(property "Footprint" "Package_DIP:DIP-4_W7.62mm_SMDSocket_SmallPads"
-			(at 163.83 40.64 0)
+			(at 184.15 39.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4795,7 +5053,7 @@
 			)
 		)
 		(property "Datasheet" "http://www.everlight.com/file/ProductFile/EL817.pdf"
-			(at 168.91 35.56 0)
+			(at 189.23 34.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4805,7 +5063,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 168.91 35.56 0)
+			(at 189.23 34.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4814,7 +5072,7 @@
 			)
 		)
 		(property "LCSC" "C106900"
-			(at 168.91 35.56 0)
+			(at 189.23 34.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4837,7 +5095,7 @@
 		(instances
 			(project "Doorbell with External ESP8266"
 				(path "/1d0268e6-ee3c-4a34-9d2d-f372b4396147"
-					(reference "U102")
+					(reference "U103")
 					(unit 1)
 				)
 			)
@@ -4845,7 +5103,7 @@
 	)
 	(symbol
 		(lib_id "MCU_Module:WeMos_D1_mini")
-		(at 26.67 43.18 0)
+		(at 34.29 43.18 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4854,7 +5112,7 @@
 		(fields_autoplaced yes)
 		(uuid "3218dcbf-9d4b-48e8-9c50-4335094851a5")
 		(property "Reference" "U101"
-			(at 28.8641 63.5 0)
+			(at 36.4841 63.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4863,7 +5121,7 @@
 			)
 		)
 		(property "Value" "WeMos_D1_mini"
-			(at 28.8641 66.04 0)
+			(at 36.4841 66.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4872,7 +5130,7 @@
 			)
 		)
 		(property "Footprint" "Module:WEMOS_D1_mini_light"
-			(at 26.67 72.39 0)
+			(at 34.29 72.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4881,7 +5139,7 @@
 			)
 		)
 		(property "Datasheet" "https://wiki.wemos.cc/products:d1:d1_mini#documentation"
-			(at -20.32 72.39 0)
+			(at -12.7 72.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4890,7 +5148,7 @@
 			)
 		)
 		(property "Description" "32-bit microcontroller module with WiFi"
-			(at 26.67 43.18 0)
+			(at 34.29 43.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4957,7 +5215,7 @@
 	)
 	(symbol
 		(lib_id "Connector:Screw_Terminal_01x02")
-		(at 44.45 96.52 0)
+		(at 46.99 96.52 0)
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
@@ -4965,8 +5223,8 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "362342c6-520f-45b1-ac8a-57e50f1e9c6d")
-		(property "Reference" "J102"
-			(at 46.99 96.52 0)
+		(property "Reference" "J103"
+			(at 49.53 96.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4975,7 +5233,7 @@
 			)
 		)
 		(property "Value" "To Rectifier"
-			(at 46.99 93.98 0)
+			(at 49.53 93.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4984,7 +5242,7 @@
 			)
 		)
 		(property "Footprint" "TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-2_1x02_P5.00mm_Horizontal"
-			(at 44.45 96.52 0)
+			(at 46.99 96.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4993,7 +5251,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 44.45 96.52 0)
+			(at 46.99 96.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5002,7 +5260,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 44.45 96.52 0)
+			(at 46.99 96.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5011,7 +5269,7 @@
 			)
 		)
 		(property "LCSC" ""
-			(at 44.45 96.52 0)
+			(at 46.99 96.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5028,7 +5286,7 @@
 		(instances
 			(project "Doorbell with External ESP8266"
 				(path "/1d0268e6-ee3c-4a34-9d2d-f372b4396147"
-					(reference "J102")
+					(reference "J103")
 					(unit 1)
 				)
 			)
@@ -5036,7 +5294,7 @@
 	)
 	(symbol
 		(lib_id "Mechanical:MountingHole")
-		(at 58.42 64.77 0)
+		(at 67.31 64.77 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5044,7 +5302,7 @@
 		(dnp no)
 		(uuid "3815c5d4-e925-4f20-b391-d57169a80fe0")
 		(property "Reference" "H102"
-			(at 60.96 64.77 0)
+			(at 69.85 64.77 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5053,7 +5311,7 @@
 			)
 		)
 		(property "Value" "MountingHole"
-			(at 60.96 66.04 0)
+			(at 69.85 66.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5063,7 +5321,7 @@
 			)
 		)
 		(property "Footprint" "MountingHole:MountingHole_3mm"
-			(at 58.42 64.77 0)
+			(at 67.31 64.77 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5072,7 +5330,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 58.42 64.77 0)
+			(at 67.31 64.77 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5081,7 +5339,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 58.42 64.77 0)
+			(at 67.31 64.77 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5099,17 +5357,17 @@
 		)
 	)
 	(symbol
-		(lib_id "power:VCC")
-		(at 157.48 26.67 0)
+		(lib_id "power:+3V3")
+		(at 97.79 21.59 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "56aa969e-64a9-4b64-9efb-890266c4f1a2")
-		(property "Reference" "#PWR0115"
-			(at 157.48 30.48 0)
+		(uuid "38f37d0a-8e61-4f11-b14c-836d8c88572d")
+		(property "Reference" "#PWR0110"
+			(at 97.79 25.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5117,8 +5375,8 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "VCC"
-			(at 157.48 21.59 0)
+		(property "Value" "+3V3"
+			(at 97.79 16.51 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5126,7 +5384,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 157.48 26.67 0)
+			(at 97.79 21.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5135,7 +5393,73 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 157.48 26.67 0)
+			(at 97.79 21.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+3V3\""
+			(at 97.79 21.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "2f0630d0-c66a-4294-8040-431b80cf04ba")
+		)
+		(instances
+			(project "Doorbell with External ESP8266"
+				(path "/1d0268e6-ee3c-4a34-9d2d-f372b4396147"
+					(reference "#PWR0110")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:VCC")
+		(at 180.34 30.48 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "56aa969e-64a9-4b64-9efb-890266c4f1a2")
+		(property "Reference" "#PWR0116"
+			(at 180.34 34.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "VCC"
+			(at 180.34 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 180.34 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 180.34 30.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5144,7 +5468,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"VCC\""
-			(at 157.48 26.67 0)
+			(at 180.34 30.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5158,7 +5482,7 @@
 		(instances
 			(project "Doorbell with External ESP8266"
 				(path "/1d0268e6-ee3c-4a34-9d2d-f372b4396147"
-					(reference "#PWR0115")
+					(reference "#PWR0116")
 					(unit 1)
 				)
 			)
@@ -5166,7 +5490,7 @@
 	)
 	(symbol
 		(lib_id "Device:LED")
-		(at 66.04 33.02 270)
+		(at 74.93 30.48 270)
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
@@ -5174,8 +5498,8 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "598b86bc-537e-498e-891e-379ad2e17793")
-		(property "Reference" "D105"
-			(at 71.12 31.75 90)
+		(property "Reference" "D102"
+			(at 80.01 29.21 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5183,7 +5507,7 @@
 			)
 		)
 		(property "Value" "Green"
-			(at 71.12 34.29 90)
+			(at 80.01 31.75 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5191,8 +5515,8 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_0603_1608Metric"
-			(at 66.04 33.02 0)
+		(property "Footprint" "LED_SMD:LED_0805_2012Metric"
+			(at 74.93 30.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5201,7 +5525,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 66.04 33.02 0)
+			(at 74.93 30.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5210,7 +5534,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 66.04 33.02 0)
+			(at 74.93 30.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5218,8 +5542,8 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C72043"
-			(at 66.04 33.02 0)
+		(property "LCSC" "C2297"
+			(at 74.93 30.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5236,7 +5560,7 @@
 		(instances
 			(project "Doorbell with External ESP8266"
 				(path "/1d0268e6-ee3c-4a34-9d2d-f372b4396147"
-					(reference "D105")
+					(reference "D102")
 					(unit 1)
 				)
 			)
@@ -5244,7 +5568,7 @@
 	)
 	(symbol
 		(lib_id "Device:R_Small")
-		(at 66.04 40.64 180)
+		(at 74.93 39.37 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5252,7 +5576,7 @@
 		(dnp no)
 		(uuid "5a3e5157-22af-424f-9718-8a0b91a5ea34")
 		(property "Reference" "R102"
-			(at 69.85 39.37 0)
+			(at 78.74 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5260,7 +5584,7 @@
 			)
 		)
 		(property "Value" "1K"
-			(at 68.58 41.91 0)
+			(at 77.47 40.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5268,7 +5592,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
-			(at 67.818 40.64 90)
+			(at 76.708 39.37 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5277,7 +5601,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 66.04 40.64 0)
+			(at 74.93 39.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5286,7 +5610,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 66.04 40.64 0)
+			(at 74.93 39.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5295,7 +5619,7 @@
 			)
 		)
 		(property "LCSC" "C21190"
-			(at 66.04 40.64 0)
+			(at 74.93 39.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5327,7 +5651,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "5e54eabb-fb06-4306-88c3-38f018b20c59")
-		(property "Reference" "J103"
+		(property "Reference" "J102"
 			(at 29.21 109.22 0)
 			(effects
 				(font
@@ -5390,7 +5714,7 @@
 		(instances
 			(project "Doorbell with External ESP8266"
 				(path "/1d0268e6-ee3c-4a34-9d2d-f372b4396147"
-					(reference "J103")
+					(reference "J102")
 					(unit 1)
 				)
 			)
@@ -5398,8 +5722,7 @@
 	)
 	(symbol
 		(lib_id "Device:Q_NMOS_GSD")
-		(at 119.38 71.12 0)
-		(mirror y)
+		(at 123.19 67.31 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5407,7 +5730,7 @@
 		(dnp no)
 		(uuid "693a3d84-dec0-41bd-afe7-664670aa10ab")
 		(property "Reference" "Q101"
-			(at 113.03 69.85 0)
+			(at 125.73 60.96 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5416,7 +5739,7 @@
 			)
 		)
 		(property "Value" "Q_NMOS_GSD"
-			(at 113.03 72.39 0)
+			(at 129.286 58.674 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5425,7 +5748,7 @@
 			)
 		)
 		(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
-			(at 114.3 68.58 0)
+			(at 120.65 62.23 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5434,7 +5757,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 119.38 71.12 0)
+			(at 123.19 67.31 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5443,7 +5766,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 119.38 71.12 0)
+			(at 123.19 67.31 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5452,7 +5775,7 @@
 			)
 		)
 		(property "LCSC" "C8545"
-			(at 119.38 71.12 0)
+			(at 123.19 67.31 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5481,7 +5804,7 @@
 	(symbol
 		(lib_name "GND_1")
 		(lib_id "power:GND")
-		(at 26.67 64.77 0)
+		(at 34.29 64.77 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5489,8 +5812,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6c1ce1d3-9eff-4c58-bf13-c8cb2e031007")
-		(property "Reference" "#PWR0118"
-			(at 26.67 71.12 0)
+		(property "Reference" "#PWR0102"
+			(at 34.29 71.12 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5499,7 +5822,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 26.67 69.85 0)
+			(at 34.29 69.85 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5507,7 +5830,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 26.67 64.77 0)
+			(at 34.29 64.77 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5516,7 +5839,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 26.67 64.77 0)
+			(at 34.29 64.77 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5525,7 +5848,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 26.67 64.77 0)
+			(at 34.29 64.77 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5539,7 +5862,7 @@
 		(instances
 			(project "Doorbell with External ESP8266"
 				(path "/1d0268e6-ee3c-4a34-9d2d-f372b4396147"
-					(reference "#PWR0118")
+					(reference "#PWR0102")
 					(unit 1)
 				)
 			)
@@ -5547,7 +5870,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 116.84 85.09 0)
+		(at 123.19 73.66 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5555,8 +5878,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6d7865ca-b55f-4de9-9eee-102a03539509")
-		(property "Reference" "#PWR0106"
-			(at 116.84 91.44 0)
+		(property "Reference" "#PWR0112"
+			(at 123.19 80.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5565,7 +5888,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 116.84 90.17 0)
+			(at 123.19 78.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5573,7 +5896,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 116.84 85.09 0)
+			(at 123.19 73.66 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5582,7 +5905,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 116.84 85.09 0)
+			(at 123.19 73.66 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5591,7 +5914,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 116.84 85.09 0)
+			(at 123.19 73.66 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5605,7 +5928,7 @@
 		(instances
 			(project "Doorbell with External ESP8266"
 				(path "/1d0268e6-ee3c-4a34-9d2d-f372b4396147"
-					(reference "#PWR0106")
+					(reference "#PWR0112")
 					(unit 1)
 				)
 			)
@@ -5613,7 +5936,7 @@
 	)
 	(symbol
 		(lib_id "power:+3V3")
-		(at 55.88 21.59 0)
+		(at 64.77 21.59 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5621,8 +5944,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6e248b6d-4afc-49d5-8afa-2000d9478884")
-		(property "Reference" "#PWR0110"
-			(at 55.88 25.4 0)
+		(property "Reference" "#PWR0105"
+			(at 64.77 25.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5631,7 +5954,7 @@
 			)
 		)
 		(property "Value" "+3V3"
-			(at 55.88 16.51 0)
+			(at 64.77 16.51 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5639,7 +5962,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 55.88 21.59 0)
+			(at 64.77 21.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5648,7 +5971,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 55.88 21.59 0)
+			(at 64.77 21.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5657,7 +5980,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+3V3\""
-			(at 55.88 21.59 0)
+			(at 64.77 21.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5671,7 +5994,7 @@
 		(instances
 			(project "Doorbell with External ESP8266"
 				(path "/1d0268e6-ee3c-4a34-9d2d-f372b4396147"
-					(reference "#PWR0110")
+					(reference "#PWR0105")
 					(unit 1)
 				)
 			)
@@ -5680,7 +6003,7 @@
 	(symbol
 		(lib_name "GND_1")
 		(lib_id "power:GND")
-		(at 114.3 43.18 0)
+		(at 133.35 43.18 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5688,8 +6011,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "79d96f47-4546-4820-b398-e3e26424ce8e")
-		(property "Reference" "#PWR0107"
-			(at 114.3 49.53 0)
+		(property "Reference" "#PWR0113"
+			(at 133.35 49.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5698,7 +6021,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 114.3 48.26 0)
+			(at 133.35 48.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5706,7 +6029,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 114.3 43.18 0)
+			(at 133.35 43.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5715,7 +6038,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 114.3 43.18 0)
+			(at 133.35 43.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5724,7 +6047,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 114.3 43.18 0)
+			(at 133.35 43.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5738,7 +6061,7 @@
 		(instances
 			(project "Doorbell with External ESP8266"
 				(path "/1d0268e6-ee3c-4a34-9d2d-f372b4396147"
-					(reference "#PWR0107")
+					(reference "#PWR0113")
 					(unit 1)
 				)
 			)
@@ -5746,7 +6069,7 @@
 	)
 	(symbol
 		(lib_id "Regulator_Linear:XC6220B331MR")
-		(at 114.3 29.21 0)
+		(at 133.35 29.21 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5754,8 +6077,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "87c4d0c7-2d2a-4417-a285-5186fb9b632e")
-		(property "Reference" "U104"
-			(at 114.3 19.05 0)
+		(property "Reference" "U102"
+			(at 133.35 19.05 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5763,7 +6086,7 @@
 			)
 		)
 		(property "Value" "XC6220B331MR-G"
-			(at 114.3 21.59 0)
+			(at 133.35 21.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5771,7 +6094,7 @@
 			)
 		)
 		(property "Footprint" "Package_TO_SOT_SMD:SOT-23-5"
-			(at 114.3 29.21 0)
+			(at 133.35 29.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5780,7 +6103,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.torexsemi.com/file/xc6220/XC6220.pdf"
-			(at 133.35 54.61 0)
+			(at 152.4 54.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5789,7 +6112,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 114.3 29.21 0)
+			(at 133.35 29.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5798,7 +6121,7 @@
 			)
 		)
 		(property "LCSC" "C86534"
-			(at 114.3 29.21 0)
+			(at 133.35 29.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5824,7 +6147,7 @@
 		(instances
 			(project "Doorbell with External ESP8266"
 				(path "/1d0268e6-ee3c-4a34-9d2d-f372b4396147"
-					(reference "U104")
+					(reference "U102")
 					(unit 1)
 				)
 			)
@@ -5832,7 +6155,7 @@
 	)
 	(symbol
 		(lib_id "Connector:Screw_Terminal_01x02")
-		(at 104.14 91.44 0)
+		(at 113.03 91.44 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom no)
@@ -5840,8 +6163,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "8a6543d2-c22c-4533-88fc-fbe55e5cf940")
-		(property "Reference" "J105"
-			(at 106.68 91.4399 0)
+		(property "Reference" "J104"
+			(at 115.57 91.4399 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5850,7 +6173,7 @@
 			)
 		)
 		(property "Value" "Chime"
-			(at 106.68 93.9799 0)
+			(at 115.57 93.9799 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5859,7 +6182,7 @@
 			)
 		)
 		(property "Footprint" "TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-2_1x02_P5.00mm_Horizontal"
-			(at 104.14 91.44 0)
+			(at 113.03 91.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5868,7 +6191,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 104.14 91.44 0)
+			(at 113.03 91.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5877,7 +6200,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 104.14 91.44 0)
+			(at 113.03 91.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5886,7 +6209,7 @@
 			)
 		)
 		(property "LCSC" ""
-			(at 104.14 91.44 0)
+			(at 113.03 91.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5903,83 +6226,7 @@
 		(instances
 			(project "Doorbell with External ESP8266"
 				(path "/1d0268e6-ee3c-4a34-9d2d-f372b4396147"
-					(reference "J105")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R_Small")
-		(at 77.47 40.64 180)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "8c6a21e8-4581-4091-a018-59392f809bff")
-		(property "Reference" "R103"
-			(at 81.28 39.37 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "1K"
-			(at 80.01 41.91 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
-			(at 79.248 40.64 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 77.47 40.64 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 77.47 40.64 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC" "C21190"
-			(at 77.47 40.64 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "c07b240a-e653-4d54-a1c4-dd0cd75a3c70")
-		)
-		(pin "2"
-			(uuid "e079e0e6-41bd-43e4-82b2-52291c56d37e")
-		)
-		(instances
-			(project "Doorbell with External ESP8266"
-				(path "/1d0268e6-ee3c-4a34-9d2d-f372b4396147"
-					(reference "R103")
+					(reference "J104")
 					(unit 1)
 				)
 			)
@@ -5987,7 +6234,7 @@
 	)
 	(symbol
 		(lib_id "power:VCC")
-		(at 24.13 21.59 0)
+		(at 31.75 21.59 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5995,8 +6242,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "95583e95-50e7-41d2-bba2-08744a93c536")
-		(property "Reference" "#PWR0119"
-			(at 24.13 25.4 0)
+		(property "Reference" "#PWR0101"
+			(at 31.75 25.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6005,7 +6252,7 @@
 			)
 		)
 		(property "Value" "VCC"
-			(at 24.13 16.51 0)
+			(at 31.75 16.51 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6013,7 +6260,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 24.13 21.59 0)
+			(at 31.75 21.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6022,7 +6269,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 24.13 21.59 0)
+			(at 31.75 21.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6031,7 +6278,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"VCC\""
-			(at 24.13 21.59 0)
+			(at 31.75 21.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6045,7 +6292,7 @@
 		(instances
 			(project "Doorbell with External ESP8266"
 				(path "/1d0268e6-ee3c-4a34-9d2d-f372b4396147"
-					(reference "#PWR0119")
+					(reference "#PWR0101")
 					(unit 1)
 				)
 			)
@@ -6053,7 +6300,7 @@
 	)
 	(symbol
 		(lib_id "Mechanical:MountingHole")
-		(at 58.42 69.85 0)
+		(at 67.31 69.85 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -6061,7 +6308,7 @@
 		(dnp no)
 		(uuid "961caea6-d619-49c2-a88a-aee59cf9ad2e")
 		(property "Reference" "H103"
-			(at 60.96 69.85 0)
+			(at 69.85 69.85 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6070,7 +6317,7 @@
 			)
 		)
 		(property "Value" "MountingHole"
-			(at 60.96 71.12 0)
+			(at 69.85 71.12 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6080,7 +6327,7 @@
 			)
 		)
 		(property "Footprint" "MountingHole:MountingHole_3mm"
-			(at 58.42 69.85 0)
+			(at 67.31 69.85 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6089,7 +6336,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 58.42 69.85 0)
+			(at 67.31 69.85 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6098,7 +6345,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 58.42 69.85 0)
+			(at 67.31 69.85 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6117,7 +6364,7 @@
 	)
 	(symbol
 		(lib_id "Mechanical:MountingHole")
-		(at 58.42 74.93 0)
+		(at 67.31 74.93 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -6125,7 +6372,7 @@
 		(dnp no)
 		(uuid "9a09f87e-84ca-4179-8658-a7ae6b73451c")
 		(property "Reference" "H104"
-			(at 60.96 74.93 0)
+			(at 69.85 74.93 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6134,7 +6381,7 @@
 			)
 		)
 		(property "Value" "MountingHole"
-			(at 60.96 76.2 0)
+			(at 69.85 76.2 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6144,7 +6391,7 @@
 			)
 		)
 		(property "Footprint" "MountingHole:MountingHole_3mm"
-			(at 58.42 74.93 0)
+			(at 67.31 74.93 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6153,7 +6400,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 58.42 74.93 0)
+			(at 67.31 74.93 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6162,7 +6409,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 58.42 74.93 0)
+			(at 67.31 74.93 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6182,7 +6429,7 @@
 	(symbol
 		(lib_name "GND_1")
 		(lib_id "power:GND")
-		(at 66.04 44.45 0)
+		(at 74.93 43.18 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -6190,8 +6437,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a365ad4e-aeac-4a7f-8624-56e6996d88ab")
-		(property "Reference" "#PWR0103"
-			(at 66.04 50.8 0)
+		(property "Reference" "#PWR0107"
+			(at 74.93 49.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6200,7 +6447,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 66.04 49.53 0)
+			(at 74.93 48.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6208,7 +6455,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 66.04 44.45 0)
+			(at 74.93 43.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6217,7 +6464,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 66.04 44.45 0)
+			(at 74.93 43.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6226,7 +6473,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 66.04 44.45 0)
+			(at 74.93 43.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6240,7 +6487,7 @@
 		(instances
 			(project "Doorbell with External ESP8266"
 				(path "/1d0268e6-ee3c-4a34-9d2d-f372b4396147"
-					(reference "#PWR0103")
+					(reference "#PWR0107")
 					(unit 1)
 				)
 			)
@@ -6248,15 +6495,15 @@
 	)
 	(symbol
 		(lib_id "Relay:SANYOU_SRD_Form_C")
-		(at 88.9 83.82 270)
+		(at 97.79 83.82 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "a5e5cd40-86bf-46cb-b4ad-f501dae3bb2c")
-		(property "Reference" "K102"
-			(at 87.63 68.58 90)
+		(property "Reference" "K101"
+			(at 96.52 68.58 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6265,7 +6512,7 @@
 			)
 		)
 		(property "Value" "Relay"
-			(at 86.36 71.12 90)
+			(at 95.25 71.12 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6274,7 +6521,7 @@
 			)
 		)
 		(property "Footprint" "Relay_THT:Relay_SPDT_SANYOU_SRD_Series_Form_C"
-			(at 87.63 95.25 0)
+			(at 96.52 95.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6284,7 +6531,7 @@
 			)
 		)
 		(property "Datasheet" "http://www.sanyourelay.ca/public/products/pdf/SRD.pdf"
-			(at 88.9 83.82 0)
+			(at 97.79 83.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6293,7 +6540,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 88.9 83.82 0)
+			(at 97.79 83.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6302,7 +6549,7 @@
 			)
 		)
 		(property "LCSC" ""
-			(at 88.9 83.82 0)
+			(at 97.79 83.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6328,7 +6575,7 @@
 		(instances
 			(project "Doorbell with External ESP8266"
 				(path "/1d0268e6-ee3c-4a34-9d2d-f372b4396147"
-					(reference "K102")
+					(reference "K101")
 					(unit 1)
 				)
 			)
@@ -6344,7 +6591,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ad714aaa-c6fb-491c-8afe-3c4112fdbc33")
-		(property "Reference" "#PWR0105"
+		(property "Reference" "#PWR0104"
 			(at 58.42 109.22 0)
 			(effects
 				(font
@@ -6394,7 +6641,7 @@
 		(instances
 			(project "Doorbell with External ESP8266"
 				(path "/1d0268e6-ee3c-4a34-9d2d-f372b4396147"
-					(reference "#PWR0105")
+					(reference "#PWR0104")
 					(unit 1)
 				)
 			)
@@ -6411,7 +6658,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b27bb9fd-ffd8-4ff8-a2e6-2e0b6024c053")
-		(property "Reference" "#PWR0101"
+		(property "Reference" "#PWR0103"
 			(at 38.1 119.38 0)
 			(effects
 				(font
@@ -6461,7 +6708,7 @@
 		(instances
 			(project "Doorbell with External ESP8266"
 				(path "/1d0268e6-ee3c-4a34-9d2d-f372b4396147"
-					(reference "#PWR0101")
+					(reference "#PWR0103")
 					(unit 1)
 				)
 			)
@@ -6469,7 +6716,7 @@
 	)
 	(symbol
 		(lib_id "Connector:Screw_Terminal_01x02")
-		(at 148.59 30.48 0)
+		(at 167.64 36.83 0)
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
@@ -6477,8 +6724,8 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "b7ba53b1-1692-4afc-a452-9e8d7ab43389")
-		(property "Reference" "J104"
-			(at 146.05 30.48 0)
+		(property "Reference" "J105"
+			(at 165.1 36.83 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6487,7 +6734,7 @@
 			)
 		)
 		(property "Value" "Button"
-			(at 146.05 33.02 0)
+			(at 165.1 39.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6496,7 +6743,7 @@
 			)
 		)
 		(property "Footprint" "TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-2_1x02_P5.00mm_Horizontal"
-			(at 148.59 30.48 0)
+			(at 167.64 36.83 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6505,7 +6752,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 148.59 30.48 0)
+			(at 167.64 36.83 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6514,7 +6761,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 148.59 30.48 0)
+			(at 167.64 36.83 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6523,7 +6770,7 @@
 			)
 		)
 		(property "LCSC" ""
-			(at 148.59 30.48 0)
+			(at 167.64 36.83 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6540,7 +6787,7 @@
 		(instances
 			(project "Doorbell with External ESP8266"
 				(path "/1d0268e6-ee3c-4a34-9d2d-f372b4396147"
-					(reference "J104")
+					(reference "J105")
 					(unit 1)
 				)
 			)
@@ -6548,7 +6795,7 @@
 	)
 	(symbol
 		(lib_id "Device:R_Small")
-		(at 55.88 25.4 180)
+		(at 64.77 25.4 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -6556,7 +6803,7 @@
 		(dnp no)
 		(uuid "c040872a-7432-42d6-a565-77dec70e0420")
 		(property "Reference" "R101"
-			(at 59.69 24.13 0)
+			(at 68.58 24.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6564,7 +6811,7 @@
 			)
 		)
 		(property "Value" "1K"
-			(at 58.42 26.67 0)
+			(at 67.31 26.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6572,7 +6819,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
-			(at 57.658 25.4 90)
+			(at 66.548 25.4 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6581,7 +6828,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 55.88 25.4 0)
+			(at 64.77 25.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6590,7 +6837,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 55.88 25.4 0)
+			(at 64.77 25.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6599,7 +6846,7 @@
 			)
 		)
 		(property "LCSC" "C21190"
-			(at 55.88 25.4 0)
+			(at 64.77 25.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6625,7 +6872,7 @@
 	(symbol
 		(lib_name "GND_1")
 		(lib_id "power:GND")
-		(at 177.8 39.37 0)
+		(at 198.12 38.1 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -6633,8 +6880,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c046b994-6198-4b85-accd-be349675f4ca")
-		(property "Reference" "#PWR0109"
-			(at 177.8 45.72 0)
+		(property "Reference" "#PWR0118"
+			(at 198.12 44.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6643,7 +6890,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 177.8 44.45 0)
+			(at 198.12 43.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6651,7 +6898,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 177.8 39.37 0)
+			(at 198.12 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6660,7 +6907,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 177.8 39.37 0)
+			(at 198.12 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6669,7 +6916,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 177.8 39.37 0)
+			(at 198.12 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6683,7 +6930,7 @@
 		(instances
 			(project "Doorbell with External ESP8266"
 				(path "/1d0268e6-ee3c-4a34-9d2d-f372b4396147"
-					(reference "#PWR0109")
+					(reference "#PWR0118")
 					(unit 1)
 				)
 			)
@@ -6691,15 +6938,15 @@
 	)
 	(symbol
 		(lib_id "Device:R_Small")
-		(at 125.73 77.47 0)
+		(at 129.54 68.58 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(uuid "c13fb466-74fa-4bb6-b864-52e53b5cb757")
-		(property "Reference" "R104"
-			(at 128.27 76.2 0)
+		(property "Reference" "R105"
+			(at 132.08 67.31 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6708,7 +6955,7 @@
 			)
 		)
 		(property "Value" "10K"
-			(at 128.27 78.74 0)
+			(at 132.08 69.85 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6717,7 +6964,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
-			(at 125.73 77.47 0)
+			(at 129.54 68.58 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6726,7 +6973,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 125.73 77.47 0)
+			(at 129.54 68.58 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6735,7 +6982,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 125.73 77.47 0)
+			(at 129.54 68.58 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6744,7 +6991,7 @@
 			)
 		)
 		(property "LCSC" "C25804"
-			(at 125.73 77.47 0)
+			(at 129.54 68.58 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6761,7 +7008,7 @@
 		(instances
 			(project "Doorbell with External ESP8266"
 				(path "/1d0268e6-ee3c-4a34-9d2d-f372b4396147"
-					(reference "R104")
+					(reference "R105")
 					(unit 1)
 				)
 			)
@@ -6769,7 +7016,7 @@
 	)
 	(symbol
 		(lib_id "power:+3V3")
-		(at 181.61 21.59 0)
+		(at 198.12 21.59 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -6778,7 +7025,7 @@
 		(fields_autoplaced yes)
 		(uuid "c4bdd675-c3cd-47b4-8971-dae5da8f489b")
 		(property "Reference" "#PWR0117"
-			(at 181.61 25.4 0)
+			(at 198.12 25.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6787,7 +7034,7 @@
 			)
 		)
 		(property "Value" "+3V3"
-			(at 181.61 16.51 0)
+			(at 198.12 16.51 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6795,7 +7042,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 181.61 21.59 0)
+			(at 198.12 21.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6804,7 +7051,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 181.61 21.59 0)
+			(at 198.12 21.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6813,7 +7060,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+3V3\""
-			(at 181.61 21.59 0)
+			(at 198.12 21.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6902,102 +7149,32 @@
 		)
 	)
 	(symbol
-		(lib_name "GND_1")
-		(lib_id "power:GND")
-		(at 77.47 44.45 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "c94337a9-6eb8-4631-b46b-8cbe32c2c535")
-		(property "Reference" "#PWR0104"
-			(at 77.47 50.8 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 77.47 49.53 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 77.47 44.45 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 77.47 44.45 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 77.47 44.45 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "4d5a29dc-a5e9-4911-966c-fc58cac50e15")
-		)
-		(instances
-			(project "Doorbell with External ESP8266"
-				(path "/1d0268e6-ee3c-4a34-9d2d-f372b4396147"
-					(reference "#PWR0104")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:R_Small")
-		(at 156.21 43.18 0)
+		(at 97.79 25.4 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "cc850271-1bd2-4856-812d-c8d167f88c02")
-		(property "Reference" "R106"
-			(at 158.75 41.91 0)
+		(uuid "ca1664d1-8fd0-4d53-9906-3a9fcf0e6011")
+		(property "Reference" "R104"
+			(at 101.6 24.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
 			)
 		)
 		(property "Value" "1K"
-			(at 158.75 44.45 0)
+			(at 100.33 26.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
-			(at 156.21 43.18 0)
+			(at 99.568 25.4 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7006,7 +7183,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 156.21 43.18 0)
+			(at 97.79 25.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7015,7 +7192,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 156.21 43.18 0)
+			(at 97.79 25.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7024,7 +7201,84 @@
 			)
 		)
 		(property "LCSC" "C21190"
-			(at 156.21 43.18 0)
+			(at 97.79 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "5f261d37-4c88-492b-8552-52807db1933c")
+		)
+		(pin "2"
+			(uuid "93d3ef88-118b-4642-af3c-29a0320e3fd3")
+		)
+		(instances
+			(project "Doorbell with External ESP8266"
+				(path "/1d0268e6-ee3c-4a34-9d2d-f372b4396147"
+					(reference "R104")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R_Small")
+		(at 176.53 36.83 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "cc850271-1bd2-4856-812d-c8d167f88c02")
+		(property "Reference" "R106"
+			(at 176.53 31.75 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "1K"
+			(at 176.53 34.29 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+			(at 176.53 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 176.53 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 176.53 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C21190"
+			(at 176.53 36.83 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7127,6 +7381,72 @@
 		)
 	)
 	(symbol
+		(lib_id "power:+3V3")
+		(at 86.36 21.59 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "d53cf152-d8eb-4298-b520-7bcef085826c")
+		(property "Reference" "#PWR0109"
+			(at 86.36 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+3V3"
+			(at 86.36 16.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 86.36 21.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 86.36 21.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+3V3\""
+			(at 86.36 21.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "9d441e63-730a-44c6-92e7-d6e2bd8b7739")
+		)
+		(instances
+			(project "Doorbell with External ESP8266"
+				(path "/1d0268e6-ee3c-4a34-9d2d-f372b4396147"
+					(reference "#PWR0109")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Connector:Screw_Terminal_01x02")
 		(at 29.21 93.98 0)
 		(mirror y)
@@ -7207,7 +7527,7 @@
 	)
 	(symbol
 		(lib_id "Device:D_Small")
-		(at 88.9 64.77 0)
+		(at 97.79 64.77 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -7215,8 +7535,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d7013915-b49b-4029-8a16-8364158810c3")
-		(property "Reference" "D101"
-			(at 88.9 58.42 0)
+		(property "Reference" "D105"
+			(at 97.79 58.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7224,7 +7544,7 @@
 			)
 		)
 		(property "Value" "D_Small"
-			(at 88.9 60.96 0)
+			(at 97.79 60.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7232,7 +7552,7 @@
 			)
 		)
 		(property "Footprint" "Diode_SMD:D_SMA"
-			(at 88.9 64.77 90)
+			(at 97.79 64.77 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7241,7 +7561,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 88.9 64.77 90)
+			(at 97.79 64.77 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7250,7 +7570,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 88.9 64.77 0)
+			(at 97.79 64.77 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7259,7 +7579,7 @@
 			)
 		)
 		(property "Sim.Device" "D"
-			(at 88.9 64.77 0)
+			(at 97.79 64.77 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7268,7 +7588,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 88.9 64.77 0)
+			(at 97.79 64.77 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7277,7 +7597,7 @@
 			)
 		)
 		(property "LCSC" "C8678"
-			(at 88.9 64.77 0)
+			(at 97.79 64.77 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7294,7 +7614,7 @@
 		(instances
 			(project "Doorbell with External ESP8266"
 				(path "/1d0268e6-ee3c-4a34-9d2d-f372b4396147"
-					(reference "D101")
+					(reference "D105")
 					(unit 1)
 				)
 			)
@@ -7302,7 +7622,7 @@
 	)
 	(symbol
 		(lib_id "Device:C_Small")
-		(at 97.79 33.02 0)
+		(at 116.84 33.02 0)
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
@@ -7311,8 +7631,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "dec743d1-f3d3-442f-b626-089c727d0a6b")
-		(property "Reference" "C105"
-			(at 95.25 31.7436 0)
+		(property "Reference" "C101"
+			(at 114.3 31.7436 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7321,7 +7641,7 @@
 			)
 		)
 		(property "Value" "22uF"
-			(at 95.25 34.2836 0)
+			(at 114.3 34.2836 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7330,7 +7650,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
-			(at 97.79 33.02 0)
+			(at 116.84 33.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7339,7 +7659,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 97.79 33.02 0)
+			(at 116.84 33.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7348,7 +7668,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 97.79 33.02 0)
+			(at 116.84 33.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7357,7 +7677,7 @@
 			)
 		)
 		(property "LCSC" "C59461"
-			(at 97.79 33.02 0)
+			(at 116.84 33.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7374,7 +7694,7 @@
 		(instances
 			(project "Doorbell with External ESP8266"
 				(path "/1d0268e6-ee3c-4a34-9d2d-f372b4396147"
-					(reference "C105")
+					(reference "C101")
 					(unit 1)
 				)
 			)
@@ -7382,7 +7702,7 @@
 	)
 	(symbol
 		(lib_id "power:+3V3")
-		(at 128.27 21.59 0)
+		(at 147.32 21.59 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -7390,8 +7710,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e1b7ace1-08a7-4083-ad35-145f1d6ff1da")
-		(property "Reference" "#PWR0116"
-			(at 128.27 25.4 0)
+		(property "Reference" "#PWR0114"
+			(at 147.32 25.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7400,7 +7720,7 @@
 			)
 		)
 		(property "Value" "+3V3"
-			(at 128.27 16.51 0)
+			(at 147.32 16.51 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7408,7 +7728,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 128.27 21.59 0)
+			(at 147.32 21.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7417,7 +7737,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 128.27 21.59 0)
+			(at 147.32 21.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7426,7 +7746,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+3V3\""
-			(at 128.27 21.59 0)
+			(at 147.32 21.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7440,7 +7760,7 @@
 		(instances
 			(project "Doorbell with External ESP8266"
 				(path "/1d0268e6-ee3c-4a34-9d2d-f372b4396147"
-					(reference "#PWR0116")
+					(reference "#PWR0114")
 					(unit 1)
 				)
 			)
@@ -7448,7 +7768,7 @@
 	)
 	(symbol
 		(lib_id "Device:LED")
-		(at 77.47 33.02 270)
+		(at 86.36 33.02 270)
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
@@ -7456,8 +7776,8 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "e6dc90e9-5308-43ed-a600-659ddbbec35c")
-		(property "Reference" "D106"
-			(at 82.55 31.75 90)
+		(property "Reference" "D103"
+			(at 91.44 31.75 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7465,7 +7785,7 @@
 			)
 		)
 		(property "Value" "Yellow"
-			(at 82.55 34.29 90)
+			(at 91.44 34.29 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7473,8 +7793,8 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_0603_1608Metric"
-			(at 77.47 33.02 0)
+		(property "Footprint" "LED_SMD:LED_0805_2012Metric"
+			(at 86.36 33.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7483,7 +7803,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 77.47 33.02 0)
+			(at 86.36 33.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7492,7 +7812,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 77.47 33.02 0)
+			(at 86.36 33.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7500,8 +7820,8 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C2286"
-			(at 77.47 33.02 0)
+		(property "LCSC" "C2296"
+			(at 86.36 33.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7518,7 +7838,7 @@
 		(instances
 			(project "Doorbell with External ESP8266"
 				(path "/1d0268e6-ee3c-4a34-9d2d-f372b4396147"
-					(reference "D106")
+					(reference "D103")
 					(unit 1)
 				)
 			)
@@ -7526,7 +7846,7 @@
 	)
 	(symbol
 		(lib_id "Mechanical:MountingHole")
-		(at 58.42 59.69 0)
+		(at 67.31 59.69 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -7534,7 +7854,7 @@
 		(dnp no)
 		(uuid "e8629763-7d21-43ff-900d-7b840693ae9c")
 		(property "Reference" "H101"
-			(at 60.96 59.69 0)
+			(at 69.85 59.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7543,7 +7863,7 @@
 			)
 		)
 		(property "Value" "MountingHole"
-			(at 60.96 60.96 0)
+			(at 69.85 60.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7553,7 +7873,7 @@
 			)
 		)
 		(property "Footprint" "MountingHole:MountingHole_3mm"
-			(at 58.42 59.69 0)
+			(at 67.31 59.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7562,7 +7882,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 58.42 59.69 0)
+			(at 67.31 59.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7571,7 +7891,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 58.42 59.69 0)
+			(at 67.31 59.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7590,7 +7910,7 @@
 	)
 	(symbol
 		(lib_id "power:VCC")
-		(at 74.93 76.2 0)
+		(at 83.82 76.2 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -7598,8 +7918,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e94a3098-f8da-4e77-acd8-aa6303681dce")
-		(property "Reference" "#PWR0113"
-			(at 74.93 80.01 0)
+		(property "Reference" "#PWR0108"
+			(at 83.82 80.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7608,7 +7928,7 @@
 			)
 		)
 		(property "Value" "VCC"
-			(at 74.93 71.12 0)
+			(at 83.82 71.12 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7616,7 +7936,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 74.93 76.2 0)
+			(at 83.82 76.2 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7625,7 +7945,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 74.93 76.2 0)
+			(at 83.82 76.2 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7634,7 +7954,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"VCC\""
-			(at 74.93 76.2 0)
+			(at 83.82 76.2 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7648,7 +7968,7 @@
 		(instances
 			(project "Doorbell with External ESP8266"
 				(path "/1d0268e6-ee3c-4a34-9d2d-f372b4396147"
-					(reference "#PWR0113")
+					(reference "#PWR0108")
 					(unit 1)
 				)
 			)
@@ -7657,7 +7977,7 @@
 	(symbol
 		(lib_name "PWR_FLAG_1")
 		(lib_id "power:PWR_FLAG")
-		(at 93.98 21.59 0)
+		(at 113.03 21.59 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -7666,7 +7986,7 @@
 		(fields_autoplaced yes)
 		(uuid "eca3dfdd-32cc-4dc4-917a-f61bc4ff01cd")
 		(property "Reference" "#FLG0103"
-			(at 93.98 19.685 0)
+			(at 113.03 19.685 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7675,7 +7995,7 @@
 			)
 		)
 		(property "Value" "PWR_FLAG"
-			(at 93.98 16.51 0)
+			(at 113.03 16.51 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7684,7 +8004,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 93.98 21.59 0)
+			(at 113.03 21.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7693,7 +8013,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 93.98 21.59 0)
+			(at 113.03 21.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7702,7 +8022,7 @@
 			)
 		)
 		(property "Description" "Special symbol for telling ERC where power comes from"
-			(at 93.98 21.59 0)
+			(at 113.03 21.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7725,7 +8045,7 @@
 	(symbol
 		(lib_name "GND_1")
 		(lib_id "power:GND")
-		(at 156.21 48.26 0)
+		(at 173.99 40.64 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -7733,8 +8053,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f5ecd432-7ac1-49cc-9dff-ac304654d591")
-		(property "Reference" "#PWR0108"
-			(at 156.21 54.61 0)
+		(property "Reference" "#PWR0115"
+			(at 173.99 46.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7743,7 +8063,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 156.21 53.34 0)
+			(at 173.99 45.72 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7751,7 +8071,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 156.21 48.26 0)
+			(at 173.99 40.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7760,7 +8080,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 156.21 48.26 0)
+			(at 173.99 40.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7769,7 +8089,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 156.21 48.26 0)
+			(at 173.99 40.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7783,7 +8103,7 @@
 		(instances
 			(project "Doorbell with External ESP8266"
 				(path "/1d0268e6-ee3c-4a34-9d2d-f372b4396147"
-					(reference "#PWR0108")
+					(reference "#PWR0115")
 					(unit 1)
 				)
 			)
@@ -7791,7 +8111,7 @@
 	)
 	(symbol
 		(lib_id "Device:LED")
-		(at 55.88 33.02 270)
+		(at 64.77 33.02 270)
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
@@ -7799,8 +8119,8 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "fd3f3030-0ebe-4ff8-aa07-1b8f5eeff03a")
-		(property "Reference" "D104"
-			(at 60.96 31.75 90)
+		(property "Reference" "D101"
+			(at 69.85 31.75 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7808,7 +8128,7 @@
 			)
 		)
 		(property "Value" "Red"
-			(at 59.69 34.29 90)
+			(at 68.58 34.29 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7816,8 +8136,8 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_0603_1608Metric"
-			(at 55.88 33.02 0)
+		(property "Footprint" "LED_SMD:LED_0805_2012Metric"
+			(at 64.77 33.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7826,7 +8146,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 55.88 33.02 0)
+			(at 64.77 33.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7835,7 +8155,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 55.88 33.02 0)
+			(at 64.77 33.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7843,8 +8163,8 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C2286"
-			(at 55.88 33.02 0)
+		(property "LCSC" "C84256"
+			(at 64.77 33.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7861,7 +8181,7 @@
 		(instances
 			(project "Doorbell with External ESP8266"
 				(path "/1d0268e6-ee3c-4a34-9d2d-f372b4396147"
-					(reference "D104")
+					(reference "D101")
 					(unit 1)
 				)
 			)
