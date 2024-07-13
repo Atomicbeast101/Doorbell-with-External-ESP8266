@@ -1376,7 +1376,7 @@
 		(path "/9a09f87e-84ca-4179-8658-a7ae6b73451c")
 		(sheetname "Root")
 		(sheetfile "Doorbell with External ESP8266.kicad_sch")
-		(attr exclude_from_pos_files)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
 			(end 3 0)
@@ -1969,7 +1969,7 @@
 		(path "/5e54eabb-fb06-4306-88c3-38f018b20c59")
 		(sheetname "Root")
 		(sheetfile "Doorbell with External ESP8266.kicad_sch")
-		(attr through_hole exclude_from_bom)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start -2.8 4.9)
 			(end -2.3 4.9)
@@ -2478,7 +2478,7 @@
 		(path "/b7ba53b1-1692-4afc-a452-9e8d7ab43389")
 		(sheetname "Root")
 		(sheetfile "Doorbell with External ESP8266.kicad_sch")
-		(attr through_hole exclude_from_bom)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start -2.8 4.16)
 			(end -2.8 4.9)
@@ -3642,7 +3642,7 @@
 		(path "/3815c5d4-e925-4f20-b391-d57169a80fe0")
 		(sheetname "Root")
 		(sheetfile "Doorbell with External ESP8266.kicad_sch")
-		(attr exclude_from_pos_files)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
 			(end 3 0)
@@ -3746,7 +3746,7 @@
 		(path "/e8629763-7d21-43ff-900d-7b840693ae9c")
 		(sheetname "Root")
 		(sheetfile "Doorbell with External ESP8266.kicad_sch")
-		(attr exclude_from_pos_files)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
 			(end 3 0)
@@ -4089,7 +4089,7 @@
 		(path "/8a6543d2-c22c-4533-88fc-fbe55e5cf940")
 		(sheetname "Root")
 		(sheetfile "Doorbell with External ESP8266.kicad_sch")
-		(attr through_hole exclude_from_bom)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start -2.8 4.16)
 			(end -2.8 4.9)
@@ -4835,7 +4835,7 @@
 		(path "/3218dcbf-9d4b-48e8-9c50-4335094851a5")
 		(sheetname "Root")
 		(sheetfile "Doorbell with External ESP8266.kicad_sch")
-		(attr through_hole)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start -1.5 19.22)
 			(end -1.5 -6.21)
@@ -5632,7 +5632,7 @@
 		(path "/362342c6-520f-45b1-ac8a-57e50f1e9c6d")
 		(sheetname "Root")
 		(sheetfile "Doorbell with External ESP8266.kicad_sch")
-		(attr through_hole exclude_from_bom)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start -2.8 4.9)
 			(end -2.3 4.9)
@@ -6141,7 +6141,7 @@
 		(path "/d5d3ac0a-41f1-4aff-b175-96dc0f6966ac")
 		(sheetname "Root")
 		(sheetfile "Doorbell with External ESP8266.kicad_sch")
-		(attr through_hole exclude_from_bom)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start -2.8 4.9)
 			(end -2.3 4.9)
@@ -7634,7 +7634,7 @@
 		(path "/a5e5cd40-86bf-46cb-b4ad-f501dae3bb2c")
 		(sheetname "Root")
 		(sheetfile "Doorbell with External ESP8266.kicad_sch")
-		(attr through_hole exclude_from_bom)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start 18.4 7.8)
 			(end -1.4 7.8)
@@ -8569,7 +8569,7 @@
 		(path "/961caea6-d619-49c2-a88a-aee59cf9ad2e")
 		(sheetname "Root")
 		(sheetfile "Doorbell with External ESP8266.kicad_sch")
-		(attr exclude_from_pos_files)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
 			(end 3 0)
