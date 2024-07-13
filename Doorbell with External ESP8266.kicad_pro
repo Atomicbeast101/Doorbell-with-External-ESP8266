@@ -63,7 +63,13 @@
           "width": 0.2672
         }
       ],
-      "drc_exclusions": [],
+      "drc_exclusions": [
+        "courtyards_overlap|65120001|52270001|990538e8-4b5b-45f9-873b-c28dfa387413|cf15306e-f091-419c-961a-bd1185a545d5",
+        "courtyards_overlap|72921816|44870001|990538e8-4b5b-45f9-873b-c28dfa387413|eb45139e-87a5-4584-8397-34da6b005ed1",
+        "courtyards_overlap|74110231|46450001|990538e8-4b5b-45f9-873b-c28dfa387413|f35cc831-7dae-4ac2-bfcf-46ac5ef2715f",
+        "silk_edge_clearance|54140000|26800000|e008e81d-cebd-4d46-adbc-bc1be95455d7|8830a7bc-93f3-4691-84f8-224144195cf5",
+        "silk_edge_clearance|80000000|26800000|e008e81d-cebd-4d46-adbc-bc1be95455d7|222f980c-6064-4869-b9e1-15bf5920851c"
+      ],
       "meta": {
         "version": 2
       },
@@ -81,7 +87,7 @@
         "extra_footprint": "warning",
         "footprint": "error",
         "footprint_symbol_mismatch": "warning",
-        "footprint_type_mismatch": "ignore",
+        "footprint_type_mismatch": "warning",
         "hole_clearance": "error",
         "hole_near_hole": "error",
         "holes_co_located": "warning",
@@ -91,15 +97,15 @@
         "items_not_allowed": "error",
         "length_out_of_range": "error",
         "lib_footprint_issues": "warning",
-        "lib_footprint_mismatch": "ignore",
+        "lib_footprint_mismatch": "warning",
         "malformed_courtyard": "error",
         "microvia_drill_out_of_range": "error",
-        "missing_courtyard": "ignore",
+        "missing_courtyard": "warning",
         "missing_footprint": "warning",
         "net_conflict": "warning",
-        "npth_inside_courtyard": "ignore",
+        "npth_inside_courtyard": "warning",
         "padstack": "warning",
-        "pth_inside_courtyard": "ignore",
+        "pth_inside_courtyard": "warning",
         "shorting_items": "error",
         "silk_edge_clearance": "warning",
         "silk_over_copper": "warning",
