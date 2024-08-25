@@ -10,6 +10,8 @@ This design has gone through its second revision and hoping it would be the fina
 
 * Buck converter is required to power this board via 16VAC doorbell transformer ([Amazon Link](https://www.amazon.com/UMLIFE-Converter-2-5-35V-Regulator-Adjustable/dp/B094ZTG5S8))
 * 5V DC (output from DC for doorbell button) is used to power the doorbell instead of 16VAC from the transformer
+* Uses ESPHome to handle the doorbell action like a traditional one, communicate updates to Home Assistant and to control the ESPHome-based smart bulbs to flash.
+    * This is to allow the doorbell to function if HomeAssistant is down.
 
 ## Schematic
 
