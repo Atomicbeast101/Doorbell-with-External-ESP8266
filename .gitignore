@@ -30,4 +30,4 @@ fp-info-cache
 *.csv
 .DS_Store
 \#auto_saved_files\#
-jlcpcb/
+jlcpcb/*
