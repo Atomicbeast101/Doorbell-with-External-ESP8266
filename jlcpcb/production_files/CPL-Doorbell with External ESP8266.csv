@@ -1,0 +1,16 @@
+Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+D101,Red,LED_0805_2012Metric,46.8,-24.0,180.0,top
+D102,Green,LED_0805_2012Metric,46.8,-28.4,0.0,top
+D103,Yellow,LED_0805_2012Metric,46.8,-26.2,180.0,top
+D104,White,LED_0805_2012Metric,46.8,-30.6,180.0,top
+D105,D_Small,D_SMA,44.0,-45.8,0.0,top
+F101,Polyfuse_Small,Fuse_1812_4532Metric,36.9625,-45.8,0.0,top
+Q101,Q_NMOS_GSD,SOT-23,49.8875,-45.8,180.0,top
+R101,1K,R_0603_1608Metric,43.5,-24.0,180.0,top
+R102,1K,R_0603_1608Metric,43.5,-28.4,0.0,top
+R103,1K,R_0603_1608Metric,43.5,-26.2,180.0,top
+R104,1K,R_0603_1608Metric,43.5,-30.6,180.0,top
+R105,10K,R_0603_1608Metric,53.0,-47.575,-90.0,top
+R106,1K,R_0603_1608Metric,65.725,-53.0,180.0,top
+R107,10K,R_0603_1608Metric,73.475,-45.6,0.0,top
+U103,EL817,EL817S1(C)(TU)-F,69.6,-49.3,0.0,top
