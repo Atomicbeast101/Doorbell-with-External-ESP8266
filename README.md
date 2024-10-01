@@ -18,9 +18,7 @@ They have a pretty cool plugin for KiCad that generates the manufacturing files 
 
 Although, it would be nice to have the option to define which ones to have the part #s identified for so they only have to reach out to me for confirmation on quote than asking me for part # on the non-assembled parts.
 
-I received the PCB boards a few weeks after it was ordered and am pretty satisfied with the manufacturing quality of them. One thing that's nice is that they give you a PCB board without any assembled parts along with 5 with the parts soldered on. May be useful for those who wants to see how it looks without the  parts.
-
-Was able to get other parts soldered on without any issues, just like the ones I usually get from JLCPCB.
+After a few weeks, the PCB boards were shipped to me from them. I am pretty satisfied with the manufacturing quality of them. One thing that's nice is that they give you a PCB board without any assembled parts along with 5 with the parts soldered on. May be useful for those who wants to see how it looks without the parts in the way for troubleshooting purposes. Was able to get other parts soldered on without any issues, just like the ones I usually get from JLCPCB.
 
 You can check out their site for more details or to order one through them: https://www.pcbway.com/.
 
