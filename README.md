@@ -2,9 +2,9 @@
 
 ![3D Model](drawings_images/3d_model.png)
 
-Kicad-designed smart doorbell PCB that provides the capability to use the existing doorbell transformer to power the board (via buck converter), use existing doorbell button wiring and controls the doorbell chime. The idea is to use the existing equipment and make it smarter (ability to detect the doorbell presses and send notification to Home Assistant while still triggering the doorbell chime).
+A KiCad-designed smart doorbell PCB that provides the capability to use the existing doorbell transformer to power the board (via a buck converter), utilize the existing doorbell button wiring, and control the doorbell chime. The idea is to leverage the existing equipment and make it smarter by enabling it to detect doorbell presses and send notifications to Home Assistant while still triggering the doorbell chime.
 
-This design has gone through its second revision to get a working version.
+This design has gone through its second revision to achieve a working version. The third revision was done to improve the wiring layout, otherwise the schematic design is the same.
 
 * **v1.0** - Wrong MOSFET chip, resulting in ESP8266 not having the ability to control the relay to trigger the doorbell chime.
 * **v1.1** - Working version
@@ -12,15 +12,15 @@ This design has gone through its second revision to get a working version.
 
 ## PCBWay Sponsorship
 
-PCBWay has reached out to me this October 2024 to sponsor the manufacturing the **v1.2** revision. 
+PCBWay reached out to me in October 2024 to sponsor the manufacturing of the **v1.2** revision.
 
-They have a pretty cool plugin for KiCad that generates the manufacturing files and sends it over to PCBWay's ordering page automatically. All I had to do is review the order options, modify any as needed, and add it to cart. The main part that's different from JLCPCB is that I didn't have to identify the part #s in the schematic file, they did it for me which is nice.
+They have a pretty cool plugin for KiCad that generates the manufacturing files and sends them directly to PCBWay's ordering page. All I had to do was review the order options, modify any as needed, and add it to my cart. The main difference from JLCPCB is that I didn't have to identify the part numbers in the schematic file; they did it for me, which is nice.
 
-Although, it would be nice to have the option to define which ones to have the part #s identified for so they only have to reach out to me for confirmation on quote than asking me for part # on the non-assembled parts.
+However, it would be beneficial to have the option to specify which part numbers should be identified, so they would only need to reach out to me for confirmation on the quote rather than asking me for part numbers on the non-assembled parts.
 
-After a few weeks, the PCB boards were shipped to me from them. I am pretty satisfied with the manufacturing quality of them. One thing that's nice is that they give you a PCB board without any assembled parts along with 5 with the parts soldered on. May be useful for those who wants to see how it looks without the parts in the way for troubleshooting purposes. Was able to get other parts soldered on without any issues.
+After a few weeks, the PCBs were shipped to me. I am quite satisfied with their manufacturing quality. One nice feature is that they provide one PCB without any assembled parts, along with five that have the components soldered on. This could be useful for those who want to see how it looks without the parts in the way for troubleshooting purposes. I was able to get other parts soldered on without any issues.
 
-You can check out their site for more details or to order one through them: https://www.pcbway.com/.
+You can check out their site for more details or to place an order: https://www.pcbway.com/.
 
 ![PCBWay PCBs](drawings_images/pcbway_pcbs.jpg)
 
