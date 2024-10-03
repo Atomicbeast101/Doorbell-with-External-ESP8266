@@ -30,4 +30,9 @@ fp-info-cache
 *.csv
 .DS_Store
 \#auto_saved_files\#
+
+# Ignore JLCPCB generated folder
 jlcpcb/*
+
+# Ignore PCBWay generated file
+*.kicad_pcb.zip
