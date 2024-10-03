@@ -30,7 +30,7 @@ You can check out their site for more details or to place an order: https://www.
 * 5v DC (output from DC for doorbell button) is used to power the doorbell instead of 16VAC from the transformer
 * Uses ESPHome to handle the doorbell action like a traditional one, communicate updates to Home Assistant and to control the ESPHome-based smart bulbs to flash.
     * This is to allow the doorbell to function if Home Assistant is down.
-    * The ESPHome YAML config can be found under `ESPHome/` folder.
+    * The ESPHome YAML config can be found under `ESPHome/` folder (WIP as of 10/2/2024).
 
 ## Doorbell Wire Diagram
 
