@@ -591,7 +591,7 @@
       "plot": "",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "3dmodels/smart-doorbell.step",
       "svg": "",
       "vrml": "../../CLOUD/Fusion360_Files/Doorbell with External ESP8266.wrl"
     },
